@@ -1,4 +1,5 @@
 def print_func ( str):
+ locals()
  print "==== Hello in support1 $$$$ : " , str
  return
 
