@@ -1,0 +1,1986 @@
+find: ‘/home/demo/.dbus’: Permission denied
+/home/demo/XilinxVivado/2019.1/Vivado/2019.1/tps/lnx64/python-2.7.5/include/python2.7/Python.h
+/home/demo/miniconda3/envs/tf-build/include/python3.7m/Python.h
+/home/demo/miniconda3/include/python3.7m/Python.h
+/home/demo/miniconda3/pkgs/python-3.7.7-hcff3b4d_5/include/python3.7m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/sysroots-components/x86_64/python3-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/sysroots-components/aarch64/python3/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/ncurses/6.0+20171125-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/sysroot-destdir/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/Python-3.5.5/Include/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/image/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/openssl/1.0.2p-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/gcc-runtime-external/7.3.1-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/chkconfig-alternatives/1.3.59+AUTOINC+cd437ecbd8-r7.1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/sqlite3/3_3.22.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/bzip2/1.0.6-r5/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/expat/2.2.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/base-passwd/3.5.29-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libcap/2.25-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/bash-completion/2.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/shadow/4.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/gdbm/1.14.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/glib-2.0/1_2.54.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/linux-libc-headers-external/1.0-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/kmod/25+gitAUTOINC+aca4eca103-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/util-linux/2.32.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/cryptodev-linux/1.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/attr/2.4.47-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libpcre/8.41-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/readline/7.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libxml2/2.9.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libxml2/2.9.7-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libffi/3.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/libgcc-external/7.3.1-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/zlib/1.2.11-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/systemd/1_237-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/glibc-sourcery/2.27-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/aarch64-mel-linux/xz/5.2.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/imx8mqevk_mel-mel-linux/linux-mel/4.14.141-imx8mqevk-mel+gitAUTOINC+7de4d2cba2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/imx8mqevk_mel-mel-linux/base-files/3.0.14-r89/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/glib-2.0-native/1_2.54.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/meson-native/0.44.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/kmod-native/25+gitAUTOINC+aca4eca103-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/sysroot-destdir/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/Python-3.5.5/Include/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/image/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/python3-setuptools-native/39.0.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/qemu-native/2.11.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/myproject/myworkspace/build/tmp/work/x86_64-linux/rpm-native/1_4.14.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/sysroots-components/x86_64/python3-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/sysroots-components/x86_64/python-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/sysroots-components/aarch64/python/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/sysroots-components/aarch64/python3/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libatomic-ops/7.6.2+gitAUTOINC+5ae4b4aeea-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/udev-rules-imx/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/groff/1.22.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libusb1/1.0.21-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libsamplerate0/0.1.9-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/package/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/package/usr/src/debug/python/2.7.15-r1/Python-2.7.15/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/packages-split/python-dbg/usr/src/debug/python/2.7.15-r1/Python-2.7.15/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/packages-split/python-dev/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/Python-2.7.15/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/sysroot-destdir/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python/2.7.15-r1/image/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/popt/1.16-r3/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/ncurses/6.0+20171125-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/sed/4.2.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libnfsidmap/0.25-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/busybox/1.27.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/package/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/packages-split/python3-dev/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/sysroot-destdir/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/Python-3.5.5/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3/3.5.5-r1.0/image/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/man-db/2.8.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/hdf5/1.8.19-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/openssl/1.0.2p-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gcc-runtime-external/7.3.1-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-gast/0.2.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-gast/0.2.2-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/strace/4.20-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libidn/1.33-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-dbus/1.2.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-dbus/1.2.6-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/coreutils/8.29-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/acl/2.2.52-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/binutils/2.30-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/liburcu/0.10.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/hdparm/9.53-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/chkconfig-alternatives/1.3.59+AUTOINC+cd437ecbd8-r7.1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/rpcbind/0.2.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gawk/4.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-grpcio/1.19.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-grpcio/1.19.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libcheck/0.12.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/dbus/1.12.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libgcrypt/1.8.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/sqlite3/3_3.22.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/qca-tools/2.0.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/freetype/2.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-setuptools/39.0.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-setuptools/39.0.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/qemuwrapper-cross/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/fontconfig/2.12.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bzip2/1.0.6-r5/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libunistring/0.9.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/util-macros/1_1.19.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/expat/2.2.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/icu/60.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/slang/2.3.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/wireless-tools/1_30.pre9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libdaemon/0.14-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/dbus-glib/0.108-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/blktrace/1.2.0+gitAUTOINC+cca113f2fe-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/base-passwd/3.5.29-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gdb/8.0.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/flac/1.3.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gnutls/3.6.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-numpy/1.14.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-numpy/1.14.2-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-nose/1.3.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-nose/1.3.7-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/less/529-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libcap/2.25-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/systemd-compat-units/1.0-r29/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/systemtap/3.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/systemtap/3.2-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bash-completion/2.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gobject-introspection/1.54.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gobject-introspection/1.54.1-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/shared-mime-info/1.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/shared-mime-info/1.9-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/shadow/4.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/openssh/7.6p1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libvorbis/1.3.5-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/alsa-plugins/1.1.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/alsa-plugins/1.1.5-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/psplash/0.1+gitAUTOINC+5b3c1cc28f-r15/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/glib-2.0/1_2.54.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/iw/4.14-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libusb-compat/1_0.1.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-keras-applications/1.0.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-keras-applications/1.0.6-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/usbutils/009-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libpng/1.6.34-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/udev-extraconf/1.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/linux-libc-headers-external/1.0-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/kmod/25+gitAUTOINC+aca4eca103-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-h5py/2.9.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-h5py/2.9.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/pciutils/3.5.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-termcolor/1.1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-termcolor/1.1.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/wayland/1.16.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/wayland/1.16.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/kbd/2.0.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libevent/2.1.8-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/util-linux/2.32.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/db/1_5.3.28-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/nettle/3.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libdrm/2.4.91.imx-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gptfdisk/1.0.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-wrapt/1.10.11-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-wrapt/1.10.11-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/cryptodev-linux/1.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/trace-cmd/2.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/glibc-locale/2.27-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libgpg-error/1.27-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libsndfile1/1.0.28-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/attr/2.4.47-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/avahi/0.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/avahi/0.7-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/sbc/1.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/powertop/2.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libpcre/8.41-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/readline/7.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libxml2/2.9.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libxml2/2.9.7-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/parted/3.2-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/perl/5.24.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libnl/1_3.4.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libnewt/0.52.20-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libffi/3.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libpciaccess/0.14-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libunwind/1.2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-keras-preprocessing/1.0.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-keras-preprocessing/1.0.5-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libgcc-external/7.3.1-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/protobuf/3.8.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gconf/3.2.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gconf/3.2.6-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/zlib/1.2.11-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/systemd/1_237-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/boost/1.66.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/boost/1.66.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/netbase/1_5.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libtool/2.4.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bison/3.0.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-six/1.11.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-six/1.11.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libogg/1.3.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libpipeline/1.5.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/m4/1.4.18-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/flex/2.6.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/dhcp/4.3.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/elfutils/0.170-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/json-c/0.13-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/nfs-utils/2.1.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bluez5/5.49-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/quota/4.04-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libaio/0.3.110-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/glibc-sourcery/2.27-2018.05-7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-absl/0.7.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-absl/0.7.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/pixman/1_0.34.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/babeltrace/1.5.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/xz/5.2.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/alsa-utils/1.1.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/speexdsp/1.2rc3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libnss-mdns/0.10-r7/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libnss-mdns/0.10-r7/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/systemd-gpuconfig/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/gmp/6.1.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bind/9.10.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/dosfstools/4.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/tcp-wrappers/7.6-r10/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/dri2proto/2.8-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/lttng-ust/2_2.10.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-astor/0.7.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-astor/0.7.1-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-protobuf/3.5.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/python3-protobuf/3.5.2-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libical/2.0.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/wpa-supplicant/2.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libtirpc/1.0.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/lttng-tools/2.9.11-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/lttng-tools/2.9.11-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/e2fsprogs/1.43.8-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libpthread-stubs/0.4-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/libcgroup/0.41-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mel-linux/bash/4.4.12-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/cairo/1.14.12-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/cairo/1.14.12-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/python3-pycairo/1.15.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/python3-pycairo/1.15.6-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/mesa/2_17.3.8-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/mesa/2_17.3.8-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/alsa-lib/1.1.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/tensorflow/2.0.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/tensorflow/2.0.0-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/tensorflow/2.0.0-r0/bazel/output_base/execroot/org_tensorflow/bazel-out/host/genfiles/external/local_config_python/python_include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/tensorflow/2.0.0-r0/bazel/output_base/execroot/org_tensorflow/bazel-out/arm64-v8a-opt/genfiles/external/local_config_python/python_include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/pulseaudio/11.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/pulseaudio/11.1-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/python3-pygobject/3.28.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/python3-pygobject/3.28.1-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/imx-gpu-viv/1_6.2.4.p4.0-aarch64-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/aarch64-mx8m-mel-linux/imx-gpu-viv/1_6.2.4.p4.0-aarch64-r0/recipe-sysroot/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/run-postinsts/1.0-r10/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/volatile-binds/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/os-release/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/wayland-protocols/1.16.imx-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/autoconf-archive/2016.09.16-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/firmware-wireless/0.0+gitAUTOINC+4b939aff12-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/firmware-qca6174/2.0.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/packagegroup-core-ssh-openssh/1.0-r1/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/96boards-tools/0.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/firmware-imx/1_8.1.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/all-mel-linux/update-rc.d/0.7-r5/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/kernel-module-qca6174/2.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/u-boot-imx/2018.03-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/u-boot-imx/2018.03-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/u-boot-imx/2018.03-r0/recipe-sysroot/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/optee-os-imx/git-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/optee-os-imx/git-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/alsa-state/0.2.0-r5/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/imx-boot/0.2-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/imx-boot/0.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/imx-boot/0.2-r0/recipe-sysroot/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/lttng-modules/2.10.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/packagegroup-core-tools-profile/1.0-r3/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/perf/1.0-r9/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/perf/1.0-r9/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/perf/1.0-r9/recipe-sysroot/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/systemd-serialgetty/1.0-r5/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/linux-mel/4.14.141-imx8mqevk-mel+gitAUTOINC+7de4d2cba2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/make-mod-scripts/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/packagegroup-core-boot/1.0-r17/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/fbset-modes/0.1.0-r6/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/shadow-securetty/4.2.1-r3/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/depmodwrapper-cross/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/base-files/3.0.14-r89/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/packagegroup-base/1.0-r83/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/kernel-module-imx-gpu-viv/6.2.4.p4.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/core-image-base/1.0-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/core-image-base/1.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/core-image-base/1.0-r0/recipe-sysroot/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/imx8mqevk_mel-mel-linux/imx-atf/2.0+gitAUTOINC+1cb68fa0a0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-wheel-native/0.32.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-keras-applications-native/1.0.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/gdk-pixbuf-native/2.36.11-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/glib-2.0-native/1_2.54.3-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-mako-native/1.0.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/libxslt-native/1.1.32-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/shared-mime-info-native/1.9-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-cython-native/0.28.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/gobject-introspection-native/1.54.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-pkgconfig-native/1.4.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/meson-native/0.44.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/kmod-native/25+gitAUTOINC+aca4eca103-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-setuptools-native/39.0.0-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/sysroot-destdir/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/Python-3.5.5/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/image/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-native/3.5.5-r1.0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/wayland-native/1.16.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-keras-preprocessing-native/1.0.5-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/opkg-native/1_0.3.6-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/dbus-glib-native/0.108-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-setuptools-native/39.0.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-native/2.7.15-r1.1/Python-2.7.15/Include/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-native/2.7.15-r1.1/sysroot-destdir/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-native/2.7.15-r1.1/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-native/2.7.15-r1.1/image/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-native/2.7.15-r1.1/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-six-native/1.11.0-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python-pycrypto-native/2.6.1-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/qemu-native/2.11.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-pip-native/9.0.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/libxml2-native/2.9.7-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/swig-native/3.0.12-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/rpm-native/1_4.14.1-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/python3-numpy-native/1.14.2-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/bmap-tools-native/2.5-r0/recipe-sysroot-native/usr/include/python2.7/Python.h
+/home/demo/imx8-tensorflow/ws_mel_customize_tensorflow/test/workspace/build/tmp/work/x86_64-linux/libsolv-native/0.6.33-r0/recipe-sysroot-native/usr/include/python3.5m/Python.h
+/home/demo/mgc/embedded/mel-imx8m_quad_bsp_evk/sysroots/aarch64-mel-linux/usr/include/python2.7/Python.h
+/home/demo/mgc/embedded/mel-imx8m_quad_bsp_evk/sysroots/aarch64-mel-linux/usr/include/python3.5m/Python.h
+/home/demo/mgc/embedded/mel-imx8m_quad_bsp_evk/mel/ade/ade-x86_64-development-image-imx8mqevk-mel-11.1584661152/sysroots/aarch64-mel-linux/usr/include/python2.7/Python.h
+/home/demo/mgc/embedded/mel-imx8m_quad_bsp_evk/mel/ade/ade-x86_64-development-image-imx8mqevk-mel-11.1584661152/sysroots/aarch64-mel-linux/usr/include/python3.5m/Python.h
+find: ‘/lost+found’: Permission denied
+find: ‘/sys/kernel/debug’: Permission denied
+find: ‘/sys/fs/pstore’: Permission denied
+find: ‘/sys/fs/fuse/connections/45’: Permission denied
+find: ‘/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-fwupd.service-LjOxnp’: Permission denied
+find: ‘/tmp/vmware-root’: Permission denied
+find: ‘/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-colord.service-DTzROI’: Permission denied
+find: ‘/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-rtkit-daemon.service-Y8FBQd’: Permission denied
+find: ‘/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-systemd-timesyncd.service-zFKqtn’: Permission denied
+find: ‘/run/udisks2’: Permission denied
+find: ‘/run/lightdm’: Permission denied
+find: ‘/run/cups/certs’: Permission denied
+find: ‘/run/sudo’: Permission denied
+find: ‘/run/samba/ncalrpc/np’: Permission denied
+find: ‘/run/systemd/inaccessible’: Permission denied
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+find: ‘/etc/ssl/private’: Permission denied
+find: ‘/etc/cups/ssl’: Permission denied
+find: ‘/proc/tty/driver’: Permission denied
+find: ‘/proc/1/task/1/fd’: Permission denied
+find: ‘/proc/1/task/1/fdinfo’: Permission denied
+find: ‘/proc/1/task/1/ns’: Permission denied
+find: ‘/proc/1/fd’: Permission denied
+find: ‘/proc/1/map_files’: Permission denied
+find: ‘/proc/1/fdinfo’: Permission denied
+find: ‘/proc/1/ns’: Permission denied
+find: ‘/proc/2/task/2/fd’: Permission denied
+find: ‘/proc/2/task/2/fdinfo’: Permission denied
+find: ‘/proc/2/task/2/ns’: Permission denied
+find: ‘/proc/2/fd’: Permission denied
+find: ‘/proc/2/map_files’: Permission denied
+find: ‘/proc/2/fdinfo’: Permission denied
+find: ‘/proc/2/ns’: Permission denied
+find: ‘/proc/4/task/4/fd’: Permission denied
+find: ‘/proc/4/task/4/fdinfo’: Permission denied
+find: ‘/proc/4/task/4/ns’: Permission denied
+find: ‘/proc/4/fd’: Permission denied
+find: ‘/proc/4/map_files’: Permission denied
+find: ‘/proc/4/fdinfo’: Permission denied
+find: ‘/proc/4/ns’: Permission denied
+find: ‘/proc/6/task/6/fd’: Permission denied
+find: ‘/proc/6/task/6/fdinfo’: Permission denied
+find: ‘/proc/6/task/6/ns’: Permission denied
+find: ‘/proc/6/fd’: Permission denied
+find: ‘/proc/6/map_files’: Permission denied
+find: ‘/proc/6/fdinfo’: Permission denied
+find: ‘/proc/6/ns’: Permission denied
+find: ‘/proc/7/task/7/fd’: Permission denied
+find: ‘/proc/7/task/7/fdinfo’: Permission denied
+find: ‘/proc/7/task/7/ns’: Permission denied
+find: ‘/proc/7/fd’: Permission denied
+find: ‘/proc/7/map_files’: Permission denied
+find: ‘/proc/7/fdinfo’: Permission denied
+find: ‘/proc/7/ns’: Permission denied
+find: ‘/proc/8/task/8/fd’: Permission denied
+find: ‘/proc/8/task/8/fdinfo’: Permission denied
+find: ‘/proc/8/task/8/ns’: Permission denied
+find: ‘/proc/8/fd’: Permission denied
+find: ‘/proc/8/map_files’: Permission denied
+find: ‘/proc/8/fdinfo’: Permission denied
+find: ‘/proc/8/ns’: Permission denied
+find: ‘/proc/9/task/9/fd’: Permission denied
+find: ‘/proc/9/task/9/fdinfo’: Permission denied
+find: ‘/proc/9/task/9/ns’: Permission denied
+find: ‘/proc/9/fd’: Permission denied
+find: ‘/proc/9/map_files’: Permission denied
+find: ‘/proc/9/fdinfo’: Permission denied
+find: ‘/proc/9/ns’: Permission denied
+find: ‘/proc/10/task/10/fd’: Permission denied
+find: ‘/proc/10/task/10/fdinfo’: Permission denied
+find: ‘/proc/10/task/10/ns’: Permission denied
+find: ‘/proc/10/fd’: Permission denied
+find: ‘/proc/10/map_files’: Permission denied
+find: ‘/proc/10/fdinfo’: Permission denied
+find: ‘/proc/10/ns’: Permission denied
+find: ‘/proc/11/task/11/fd’: Permission denied
+find: ‘/proc/11/task/11/fdinfo’: Permission denied
+find: ‘/proc/11/task/11/ns’: Permission denied
+find: ‘/proc/11/fd’: Permission denied
+find: ‘/proc/11/map_files’: Permission denied
+find: ‘/proc/11/fdinfo’: Permission denied
+find: ‘/proc/11/ns’: Permission denied
+find: ‘/proc/12/task/12/fd’: Permission denied
+find: ‘/proc/12/task/12/fdinfo’: Permission denied
+find: ‘/proc/12/task/12/ns’: Permission denied
+find: ‘/proc/12/fd’: Permission denied
+find: ‘/proc/12/map_files’: Permission denied
+find: ‘/proc/12/fdinfo’: Permission denied
+find: ‘/proc/12/ns’: Permission denied
+find: ‘/proc/13/task/13/fd’: Permission denied
+find: ‘/proc/13/task/13/fdinfo’: Permission denied
+find: ‘/proc/13/task/13/ns’: Permission denied
+find: ‘/proc/13/fd’: Permission denied
+find: ‘/proc/13/map_files’: Permission denied
+find: ‘/proc/13/fdinfo’: Permission denied
+find: ‘/proc/13/ns’: Permission denied
+find: ‘/proc/14/task/14/fd’: Permission denied
+find: ‘/proc/14/task/14/fdinfo’: Permission denied
+find: ‘/proc/14/task/14/ns’: Permission denied
+find: ‘/proc/14/fd’: Permission denied
+find: ‘/proc/14/map_files’: Permission denied
+find: ‘/proc/14/fdinfo’: Permission denied
+find: ‘/proc/14/ns’: Permission denied
+find: ‘/proc/15/task/15/fd’: Permission denied
+find: ‘/proc/15/task/15/fdinfo’: Permission denied
+find: ‘/proc/15/task/15/ns’: Permission denied
+find: ‘/proc/15/fd’: Permission denied
+find: ‘/proc/15/map_files’: Permission denied
+find: ‘/proc/15/fdinfo’: Permission denied
+find: ‘/proc/15/ns’: Permission denied
+find: ‘/proc/16/task/16/fd’: Permission denied
+find: ‘/proc/16/task/16/fdinfo’: Permission denied
+find: ‘/proc/16/task/16/ns’: Permission denied
+find: ‘/proc/16/fd’: Permission denied
+find: ‘/proc/16/map_files’: Permission denied
+find: ‘/proc/16/fdinfo’: Permission denied
+find: ‘/proc/16/ns’: Permission denied
+find: ‘/proc/17/task/17/fd’: Permission denied
+find: ‘/proc/17/task/17/fdinfo’: Permission denied
+find: ‘/proc/17/task/17/ns’: Permission denied
+find: ‘/proc/17/fd’: Permission denied
+find: ‘/proc/17/map_files’: Permission denied
+find: ‘/proc/17/fdinfo’: Permission denied
+find: ‘/proc/17/ns’: Permission denied
+find: ‘/proc/18/task/18/fd’: Permission denied
+find: ‘/proc/18/task/18/fdinfo’: Permission denied
+find: ‘/proc/18/task/18/ns’: Permission denied
+find: ‘/proc/18/fd’: Permission denied
+find: ‘/proc/18/map_files’: Permission denied
+find: ‘/proc/18/fdinfo’: Permission denied
+find: ‘/proc/18/ns’: Permission denied
+find: ‘/proc/19/task/19/fd’: Permission denied
+find: ‘/proc/19/task/19/fdinfo’: Permission denied
+find: ‘/proc/19/task/19/ns’: Permission denied
+find: ‘/proc/19/fd’: Permission denied
+find: ‘/proc/19/map_files’: Permission denied
+find: ‘/proc/19/fdinfo’: Permission denied
+find: ‘/proc/19/ns’: Permission denied
+find: ‘/proc/20/task/20/fd’: Permission denied
+find: ‘/proc/20/task/20/fdinfo’: Permission denied
+find: ‘/proc/20/task/20/ns’: Permission denied
+find: ‘/proc/20/fd’: Permission denied
+find: ‘/proc/20/map_files’: Permission denied
+find: ‘/proc/20/fdinfo’: Permission denied
+find: ‘/proc/20/ns’: Permission denied
+find: ‘/proc/21/task/21/fd’: Permission denied
+find: ‘/proc/21/task/21/fdinfo’: Permission denied
+find: ‘/proc/21/task/21/ns’: Permission denied
+find: ‘/proc/21/fd’: Permission denied
+find: ‘/proc/21/map_files’: Permission denied
+find: ‘/proc/21/fdinfo’: Permission denied
+find: ‘/proc/21/ns’: Permission denied
+find: ‘/proc/22/task/22/fd’: Permission denied
+find: ‘/proc/22/task/22/fdinfo’: Permission denied
+find: ‘/proc/22/task/22/ns’: Permission denied
+find: ‘/proc/22/fd’: Permission denied
+find: ‘/proc/22/map_files’: Permission denied
+find: ‘/proc/22/fdinfo’: Permission denied
+find: ‘/proc/22/ns’: Permission denied
+find: ‘/proc/23/task/23/fd’: Permission denied
+find: ‘/proc/23/task/23/fdinfo’: Permission denied
+find: ‘/proc/23/task/23/ns’: Permission denied
+find: ‘/proc/23/fd’: Permission denied
+find: ‘/proc/23/map_files’: Permission denied
+find: ‘/proc/23/fdinfo’: Permission denied
+find: ‘/proc/23/ns’: Permission denied
+find: ‘/proc/24/task/24/fd’: Permission denied
+find: ‘/proc/24/task/24/fdinfo’: Permission denied
+find: ‘/proc/24/task/24/ns’: Permission denied
+find: ‘/proc/24/fd’: Permission denied
+find: ‘/proc/24/map_files’: Permission denied
+find: ‘/proc/24/fdinfo’: Permission denied
+find: ‘/proc/24/ns’: Permission denied
+find: ‘/proc/25/task/25/fd’: Permission denied
+find: ‘/proc/25/task/25/fdinfo’: Permission denied
+find: ‘/proc/25/task/25/ns’: Permission denied
+find: ‘/proc/25/fd’: Permission denied
+find: ‘/proc/25/map_files’: Permission denied
+find: ‘/proc/25/fdinfo’: Permission denied
+find: ‘/proc/25/ns’: Permission denied
+find: ‘/proc/26/task/26/fd’: Permission denied
+find: ‘/proc/26/task/26/fdinfo’: Permission denied
+find: ‘/proc/26/task/26/ns’: Permission denied
+find: ‘/proc/26/fd’: Permission denied
+find: ‘/proc/26/map_files’: Permission denied
+find: ‘/proc/26/fdinfo’: Permission denied
+find: ‘/proc/26/ns’: Permission denied
+find: ‘/proc/27/task/27/fd’: Permission denied
+find: ‘/proc/27/task/27/fdinfo’: Permission denied
+find: ‘/proc/27/task/27/ns’: Permission denied
+find: ‘/proc/27/fd’: Permission denied
+find: ‘/proc/27/map_files’: Permission denied
+find: ‘/proc/27/fdinfo’: Permission denied
+find: ‘/proc/27/ns’: Permission denied
+find: ‘/proc/28/task/28/fd’: Permission denied
+find: ‘/proc/28/task/28/fdinfo’: Permission denied
+find: ‘/proc/28/task/28/ns’: Permission denied
+find: ‘/proc/28/fd’: Permission denied
+find: ‘/proc/28/map_files’: Permission denied
+find: ‘/proc/28/fdinfo’: Permission denied
+find: ‘/proc/28/ns’: Permission denied
+find: ‘/proc/29/task/29/fd’: Permission denied
+find: ‘/proc/29/task/29/fdinfo’: Permission denied
+find: ‘/proc/29/task/29/ns’: Permission denied
+find: ‘/proc/29/fd’: Permission denied
+find: ‘/proc/29/map_files’: Permission denied
+find: ‘/proc/29/fdinfo’: Permission denied
+find: ‘/proc/29/ns’: Permission denied
+find: ‘/proc/30/task/30/fd’: Permission denied
+find: ‘/proc/30/task/30/fdinfo’: Permission denied
+find: ‘/proc/30/task/30/ns’: Permission denied
+find: ‘/proc/30/fd’: Permission denied
+find: ‘/proc/30/map_files’: Permission denied
+find: ‘/proc/30/fdinfo’: Permission denied
+find: ‘/proc/30/ns’: Permission denied
+find: ‘/proc/34/task/34/fd’: Permission denied
+find: ‘/proc/34/task/34/fdinfo’: Permission denied
+find: ‘/proc/34/task/34/ns’: Permission denied
+find: ‘/proc/34/fd’: Permission denied
+find: ‘/proc/34/map_files’: Permission denied
+find: ‘/proc/34/fdinfo’: Permission denied
+find: ‘/proc/34/ns’: Permission denied
+find: ‘/proc/35/task/35/fd’: Permission denied
+find: ‘/proc/35/task/35/fdinfo’: Permission denied
+find: ‘/proc/35/task/35/ns’: Permission denied
+find: ‘/proc/35/fd’: Permission denied
+find: ‘/proc/35/map_files’: Permission denied
+find: ‘/proc/35/fdinfo’: Permission denied
+find: ‘/proc/35/ns’: Permission denied
+find: ‘/proc/36/task/36/fd’: Permission denied
+find: ‘/proc/36/task/36/fdinfo’: Permission denied
+find: ‘/proc/36/task/36/ns’: Permission denied
+find: ‘/proc/36/fd’: Permission denied
+find: ‘/proc/36/map_files’: Permission denied
+find: ‘/proc/36/fdinfo’: Permission denied
+find: ‘/proc/36/ns’: Permission denied
+find: ‘/proc/78/task/78/fd’: Permission denied
+find: ‘/proc/78/task/78/fdinfo’: Permission denied
+find: ‘/proc/78/task/78/ns’: Permission denied
+find: ‘/proc/78/fd’: Permission denied
+find: ‘/proc/78/map_files’: Permission denied
+find: ‘/proc/78/fdinfo’: Permission denied
+find: ‘/proc/78/ns’: Permission denied
+find: ‘/proc/79/task/79/fd’: Permission denied
+find: ‘/proc/79/task/79/fdinfo’: Permission denied
+find: ‘/proc/79/task/79/ns’: Permission denied
+find: ‘/proc/79/fd’: Permission denied
+find: ‘/proc/79/map_files’: Permission denied
+find: ‘/proc/79/fdinfo’: Permission denied
+find: ‘/proc/79/ns’: Permission denied
+find: ‘/proc/80/task/80/fd’: Permission denied
+find: ‘/proc/80/task/80/fdinfo’: Permission denied
+find: ‘/proc/80/task/80/ns’: Permission denied
+find: ‘/proc/80/fd’: Permission denied
+find: ‘/proc/80/map_files’: Permission denied
+find: ‘/proc/80/fdinfo’: Permission denied
+find: ‘/proc/80/ns’: Permission denied
+find: ‘/proc/81/task/81/fd’: Permission denied
+find: ‘/proc/81/task/81/fdinfo’: Permission denied
+find: ‘/proc/81/task/81/ns’: Permission denied
+find: ‘/proc/81/fd’: Permission denied
+find: ‘/proc/81/map_files’: Permission denied
+find: ‘/proc/81/fdinfo’: Permission denied
+find: ‘/proc/81/ns’: Permission denied
+find: ‘/proc/82/task/82/fd’: Permission denied
+find: ‘/proc/82/task/82/fdinfo’: Permission denied
+find: ‘/proc/82/task/82/ns’: Permission denied
+find: ‘/proc/82/fd’: Permission denied
+find: ‘/proc/82/map_files’: Permission denied
+find: ‘/proc/82/fdinfo’: Permission denied
+find: ‘/proc/82/ns’: Permission denied
+find: ‘/proc/83/task/83/fd’: Permission denied
+find: ‘/proc/83/task/83/fdinfo’: Permission denied
+find: ‘/proc/83/task/83/ns’: Permission denied
+find: ‘/proc/83/fd’: Permission denied
+find: ‘/proc/83/map_files’: Permission denied
+find: ‘/proc/83/fdinfo’: Permission denied
+find: ‘/proc/83/ns’: Permission denied
+find: ‘/proc/89/task/89/fd’: Permission denied
+find: ‘/proc/89/task/89/fdinfo’: Permission denied
+find: ‘/proc/89/task/89/ns’: Permission denied
+find: ‘/proc/89/fd’: Permission denied
+find: ‘/proc/89/map_files’: Permission denied
+find: ‘/proc/89/fdinfo’: Permission denied
+find: ‘/proc/89/ns’: Permission denied
+find: ‘/proc/98/task/98/fd’: Permission denied
+find: ‘/proc/98/task/98/fdinfo’: Permission denied
+find: ‘/proc/98/task/98/ns’: Permission denied
+find: ‘/proc/98/fd’: Permission denied
+find: ‘/proc/98/map_files’: Permission denied
+find: ‘/proc/98/fdinfo’: Permission denied
+find: ‘/proc/98/ns’: Permission denied
+find: ‘/proc/115/task/115/fd’: Permission denied
+find: ‘/proc/115/task/115/fdinfo’: Permission denied
+find: ‘/proc/115/task/115/ns’: Permission denied
+find: ‘/proc/115/fd’: Permission denied
+find: ‘/proc/115/map_files’: Permission denied
+find: ‘/proc/115/fdinfo’: Permission denied
+find: ‘/proc/115/ns’: Permission denied
+find: ‘/proc/168/task/168/fd’: Permission denied
+find: ‘/proc/168/task/168/fdinfo’: Permission denied
+find: ‘/proc/168/task/168/ns’: Permission denied
+find: ‘/proc/168/fd’: Permission denied
+find: ‘/proc/168/map_files’: Permission denied
+find: ‘/proc/168/fdinfo’: Permission denied
+find: ‘/proc/168/ns’: Permission denied
+find: ‘/proc/169/task/169/fd’: Permission denied
+find: ‘/proc/169/task/169/fdinfo’: Permission denied
+find: ‘/proc/169/task/169/ns’: Permission denied
+find: ‘/proc/169/fd’: Permission denied
+find: ‘/proc/169/map_files’: Permission denied
+find: ‘/proc/169/fdinfo’: Permission denied
+find: ‘/proc/169/ns’: Permission denied
+find: ‘/proc/170/task/170/fd’: Permission denied
+find: ‘/proc/170/task/170/fdinfo’: Permission denied
+find: ‘/proc/170/task/170/ns’: Permission denied
+find: ‘/proc/170/fd’: Permission denied
+find: ‘/proc/170/map_files’: Permission denied
+find: ‘/proc/170/fdinfo’: Permission denied
+find: ‘/proc/170/ns’: Permission denied
+find: ‘/proc/171/task/171/fd’: Permission denied
+find: ‘/proc/171/task/171/fdinfo’: Permission denied
+find: ‘/proc/171/task/171/ns’: Permission denied
+find: ‘/proc/171/fd’: Permission denied
+find: ‘/proc/171/map_files’: Permission denied
+find: ‘/proc/171/fdinfo’: Permission denied
+find: ‘/proc/171/ns’: Permission denied
+find: ‘/proc/172/task/172/fd’: Permission denied
+find: ‘/proc/172/task/172/fdinfo’: Permission denied
+find: ‘/proc/172/task/172/ns’: Permission denied
+find: ‘/proc/172/fd’: Permission denied
+find: ‘/proc/172/map_files’: Permission denied
+find: ‘/proc/172/fdinfo’: Permission denied
+find: ‘/proc/172/ns’: Permission denied
+find: ‘/proc/173/task/173/fd’: Permission denied
+find: ‘/proc/173/task/173/fdinfo’: Permission denied
+find: ‘/proc/173/task/173/ns’: Permission denied
+find: ‘/proc/173/fd’: Permission denied
+find: ‘/proc/173/map_files’: Permission denied
+find: ‘/proc/173/fdinfo’: Permission denied
+find: ‘/proc/173/ns’: Permission denied
+find: ‘/proc/175/task/175/fd’: Permission denied
+find: ‘/proc/175/task/175/fdinfo’: Permission denied
+find: ‘/proc/175/task/175/ns’: Permission denied
+find: ‘/proc/175/fd’: Permission denied
+find: ‘/proc/175/map_files’: Permission denied
+find: ‘/proc/175/fdinfo’: Permission denied
+find: ‘/proc/175/ns’: Permission denied
+find: ‘/proc/176/task/176/fd’: Permission denied
+find: ‘/proc/176/task/176/fdinfo’: Permission denied
+find: ‘/proc/176/task/176/ns’: Permission denied
+find: ‘/proc/176/fd’: Permission denied
+find: ‘/proc/176/map_files’: Permission denied
+find: ‘/proc/176/fdinfo’: Permission denied
+find: ‘/proc/176/ns’: Permission denied
+find: ‘/proc/177/task/177/fd’: Permission denied
+find: ‘/proc/177/task/177/fdinfo’: Permission denied
+find: ‘/proc/177/task/177/ns’: Permission denied
+find: ‘/proc/177/fd’: Permission denied
+find: ‘/proc/177/map_files’: Permission denied
+find: ‘/proc/177/fdinfo’: Permission denied
+find: ‘/proc/177/ns’: Permission denied
+find: ‘/proc/178/task/178/fd’: Permission denied
+find: ‘/proc/178/task/178/fdinfo’: Permission denied
+find: ‘/proc/178/task/178/ns’: Permission denied
+find: ‘/proc/178/fd’: Permission denied
+find: ‘/proc/178/map_files’: Permission denied
+find: ‘/proc/178/fdinfo’: Permission denied
+find: ‘/proc/178/ns’: Permission denied
+find: ‘/proc/179/task/179/fd’: Permission denied
+find: ‘/proc/179/task/179/fdinfo’: Permission denied
+find: ‘/proc/179/task/179/ns’: Permission denied
+find: ‘/proc/179/fd’: Permission denied
+find: ‘/proc/179/map_files’: Permission denied
+find: ‘/proc/179/fdinfo’: Permission denied
+find: ‘/proc/179/ns’: Permission denied
+find: ‘/proc/180/task/180/fd’: Permission denied
+find: ‘/proc/180/task/180/fdinfo’: Permission denied
+find: ‘/proc/180/task/180/ns’: Permission denied
+find: ‘/proc/180/fd’: Permission denied
+find: ‘/proc/180/map_files’: Permission denied
+find: ‘/proc/180/fdinfo’: Permission denied
+find: ‘/proc/180/ns’: Permission denied
+find: ‘/proc/181/task/181/fd’: Permission denied
+find: ‘/proc/181/task/181/fdinfo’: Permission denied
+find: ‘/proc/181/task/181/ns’: Permission denied
+find: ‘/proc/181/fd’: Permission denied
+find: ‘/proc/181/map_files’: Permission denied
+find: ‘/proc/181/fdinfo’: Permission denied
+find: ‘/proc/181/ns’: Permission denied
+find: ‘/proc/182/task/182/fd’: Permission denied
+find: ‘/proc/182/task/182/fdinfo’: Permission denied
+find: ‘/proc/182/task/182/ns’: Permission denied
+find: ‘/proc/182/fd’: Permission denied
+find: ‘/proc/182/map_files’: Permission denied
+find: ‘/proc/182/fdinfo’: Permission denied
+find: ‘/proc/182/ns’: Permission denied
+find: ‘/proc/183/task/183/fd’: Permission denied
+find: ‘/proc/183/task/183/fdinfo’: Permission denied
+find: ‘/proc/183/task/183/ns’: Permission denied
+find: ‘/proc/183/fd’: Permission denied
+find: ‘/proc/183/map_files’: Permission denied
+find: ‘/proc/183/fdinfo’: Permission denied
+find: ‘/proc/183/ns’: Permission denied
+find: ‘/proc/184/task/184/fd’: Permission denied
+find: ‘/proc/184/task/184/fdinfo’: Permission denied
+find: ‘/proc/184/task/184/ns’: Permission denied
+find: ‘/proc/184/fd’: Permission denied
+find: ‘/proc/184/map_files’: Permission denied
+find: ‘/proc/184/fdinfo’: Permission denied
+find: ‘/proc/184/ns’: Permission denied
+find: ‘/proc/185/task/185/fd’: Permission denied
+find: ‘/proc/185/task/185/fdinfo’: Permission denied
+find: ‘/proc/185/task/185/ns’: Permission denied
+find: ‘/proc/185/fd’: Permission denied
+find: ‘/proc/185/map_files’: Permission denied
+find: ‘/proc/185/fdinfo’: Permission denied
+find: ‘/proc/185/ns’: Permission denied
+find: ‘/proc/186/task/186/fd’: Permission denied
+find: ‘/proc/186/task/186/fdinfo’: Permission denied
+find: ‘/proc/186/task/186/ns’: Permission denied
+find: ‘/proc/186/fd’: Permission denied
+find: ‘/proc/186/map_files’: Permission denied
+find: ‘/proc/186/fdinfo’: Permission denied
+find: ‘/proc/186/ns’: Permission denied
+find: ‘/proc/187/task/187/fd’: Permission denied
+find: ‘/proc/187/task/187/fdinfo’: Permission denied
+find: ‘/proc/187/task/187/ns’: Permission denied
+find: ‘/proc/187/fd’: Permission denied
+find: ‘/proc/187/map_files’: Permission denied
+find: ‘/proc/187/fdinfo’: Permission denied
+find: ‘/proc/187/ns’: Permission denied
+find: ‘/proc/188/task/188/fd’: Permission denied
+find: ‘/proc/188/task/188/fdinfo’: Permission denied
+find: ‘/proc/188/task/188/ns’: Permission denied
+find: ‘/proc/188/fd’: Permission denied
+find: ‘/proc/188/map_files’: Permission denied
+find: ‘/proc/188/fdinfo’: Permission denied
+find: ‘/proc/188/ns’: Permission denied
+find: ‘/proc/189/task/189/fd’: Permission denied
+find: ‘/proc/189/task/189/fdinfo’: Permission denied
+find: ‘/proc/189/task/189/ns’: Permission denied
+find: ‘/proc/189/fd’: Permission denied
+find: ‘/proc/189/map_files’: Permission denied
+find: ‘/proc/189/fdinfo’: Permission denied
+find: ‘/proc/189/ns’: Permission denied
+find: ‘/proc/190/task/190/fd’: Permission denied
+find: ‘/proc/190/task/190/fdinfo’: Permission denied
+find: ‘/proc/190/task/190/ns’: Permission denied
+find: ‘/proc/190/fd’: Permission denied
+find: ‘/proc/190/map_files’: Permission denied
+find: ‘/proc/190/fdinfo’: Permission denied
+find: ‘/proc/190/ns’: Permission denied
+find: ‘/proc/191/task/191/fd’: Permission denied
+find: ‘/proc/191/task/191/fdinfo’: Permission denied
+find: ‘/proc/191/task/191/ns’: Permission denied
+find: ‘/proc/191/fd’: Permission denied
+find: ‘/proc/191/map_files’: Permission denied
+find: ‘/proc/191/fdinfo’: Permission denied
+find: ‘/proc/191/ns’: Permission denied
+find: ‘/proc/192/task/192/fd’: Permission denied
+find: ‘/proc/192/task/192/fdinfo’: Permission denied
+find: ‘/proc/192/task/192/ns’: Permission denied
+find: ‘/proc/192/fd’: Permission denied
+find: ‘/proc/192/map_files’: Permission denied
+find: ‘/proc/192/fdinfo’: Permission denied
+find: ‘/proc/192/ns’: Permission denied
+find: ‘/proc/193/task/193/fd’: Permission denied
+find: ‘/proc/193/task/193/fdinfo’: Permission denied
+find: ‘/proc/193/task/193/ns’: Permission denied
+find: ‘/proc/193/fd’: Permission denied
+find: ‘/proc/193/map_files’: Permission denied
+find: ‘/proc/193/fdinfo’: Permission denied
+find: ‘/proc/193/ns’: Permission denied
+find: ‘/proc/194/task/194/fd’: Permission denied
+find: ‘/proc/194/task/194/fdinfo’: Permission denied
+find: ‘/proc/194/task/194/ns’: Permission denied
+find: ‘/proc/194/fd’: Permission denied
+find: ‘/proc/194/map_files’: Permission denied
+find: ‘/proc/194/fdinfo’: Permission denied
+find: ‘/proc/194/ns’: Permission denied
+find: ‘/proc/195/task/195/fd’: Permission denied
+find: ‘/proc/195/task/195/fdinfo’: Permission denied
+find: ‘/proc/195/task/195/ns’: Permission denied
+find: ‘/proc/195/fd’: Permission denied
+find: ‘/proc/195/map_files’: Permission denied
+find: ‘/proc/195/fdinfo’: Permission denied
+find: ‘/proc/195/ns’: Permission denied
+find: ‘/proc/196/task/196/fd’: Permission denied
+find: ‘/proc/196/task/196/fdinfo’: Permission denied
+find: ‘/proc/196/task/196/ns’: Permission denied
+find: ‘/proc/196/fd’: Permission denied
+find: ‘/proc/196/map_files’: Permission denied
+find: ‘/proc/196/fdinfo’: Permission denied
+find: ‘/proc/196/ns’: Permission denied
+find: ‘/proc/197/task/197/fd’: Permission denied
+find: ‘/proc/197/task/197/fdinfo’: Permission denied
+find: ‘/proc/197/task/197/ns’: Permission denied
+find: ‘/proc/197/fd’: Permission denied
+find: ‘/proc/197/map_files’: Permission denied
+find: ‘/proc/197/fdinfo’: Permission denied
+find: ‘/proc/197/ns’: Permission denied
+find: ‘/proc/198/task/198/fd’: Permission denied
+find: ‘/proc/198/task/198/fdinfo’: Permission denied
+find: ‘/proc/198/task/198/ns’: Permission denied
+find: ‘/proc/198/fd’: Permission denied
+find: ‘/proc/198/map_files’: Permission denied
+find: ‘/proc/198/fdinfo’: Permission denied
+find: ‘/proc/198/ns’: Permission denied
+find: ‘/proc/199/task/199/fd’: Permission denied
+find: ‘/proc/199/task/199/fdinfo’: Permission denied
+find: ‘/proc/199/task/199/ns’: Permission denied
+find: ‘/proc/199/fd’: Permission denied
+find: ‘/proc/199/map_files’: Permission denied
+find: ‘/proc/199/fdinfo’: Permission denied
+find: ‘/proc/199/ns’: Permission denied
+find: ‘/proc/200/task/200/fd’: Permission denied
+find: ‘/proc/200/task/200/fdinfo’: Permission denied
+find: ‘/proc/200/task/200/ns’: Permission denied
+find: ‘/proc/200/fd’: Permission denied
+find: ‘/proc/200/map_files’: Permission denied
+find: ‘/proc/200/fdinfo’: Permission denied
+find: ‘/proc/200/ns’: Permission denied
+find: ‘/proc/201/task/201/fd’: Permission denied
+find: ‘/proc/201/task/201/fdinfo’: Permission denied
+find: ‘/proc/201/task/201/ns’: Permission denied
+find: ‘/proc/201/fd’: Permission denied
+find: ‘/proc/201/map_files’: Permission denied
+find: ‘/proc/201/fdinfo’: Permission denied
+find: ‘/proc/201/ns’: Permission denied
+find: ‘/proc/202/task/202/fd’: Permission denied
+find: ‘/proc/202/task/202/fdinfo’: Permission denied
+find: ‘/proc/202/task/202/ns’: Permission denied
+find: ‘/proc/202/fd’: Permission denied
+find: ‘/proc/202/map_files’: Permission denied
+find: ‘/proc/202/fdinfo’: Permission denied
+find: ‘/proc/202/ns’: Permission denied
+find: ‘/proc/203/task/203/fd’: Permission denied
+find: ‘/proc/203/task/203/fdinfo’: Permission denied
+find: ‘/proc/203/task/203/ns’: Permission denied
+find: ‘/proc/203/fd’: Permission denied
+find: ‘/proc/203/map_files’: Permission denied
+find: ‘/proc/203/fdinfo’: Permission denied
+find: ‘/proc/203/ns’: Permission denied
+find: ‘/proc/204/task/204/fd’: Permission denied
+find: ‘/proc/204/task/204/fdinfo’: Permission denied
+find: ‘/proc/204/task/204/ns’: Permission denied
+find: ‘/proc/204/fd’: Permission denied
+find: ‘/proc/204/map_files’: Permission denied
+find: ‘/proc/204/fdinfo’: Permission denied
+find: ‘/proc/204/ns’: Permission denied
+find: ‘/proc/205/task/205/fd’: Permission denied
+find: ‘/proc/205/task/205/fdinfo’: Permission denied
+find: ‘/proc/205/task/205/ns’: Permission denied
+find: ‘/proc/205/fd’: Permission denied
+find: ‘/proc/205/map_files’: Permission denied
+find: ‘/proc/205/fdinfo’: Permission denied
+find: ‘/proc/205/ns’: Permission denied
+find: ‘/proc/206/task/206/fd’: Permission denied
+find: ‘/proc/206/task/206/fdinfo’: Permission denied
+find: ‘/proc/206/task/206/ns’: Permission denied
+find: ‘/proc/206/fd’: Permission denied
+find: ‘/proc/206/map_files’: Permission denied
+find: ‘/proc/206/fdinfo’: Permission denied
+find: ‘/proc/206/ns’: Permission denied
+find: ‘/proc/207/task/207/fd’: Permission denied
+find: ‘/proc/207/task/207/fdinfo’: Permission denied
+find: ‘/proc/207/task/207/ns’: Permission denied
+find: ‘/proc/207/fd’: Permission denied
+find: ‘/proc/207/map_files’: Permission denied
+find: ‘/proc/207/fdinfo’: Permission denied
+find: ‘/proc/207/ns’: Permission denied
+find: ‘/proc/208/task/208/fd’: Permission denied
+find: ‘/proc/208/task/208/fdinfo’: Permission denied
+find: ‘/proc/208/task/208/ns’: Permission denied
+find: ‘/proc/208/fd’: Permission denied
+find: ‘/proc/208/map_files’: Permission denied
+find: ‘/proc/208/fdinfo’: Permission denied
+find: ‘/proc/208/ns’: Permission denied
+find: ‘/proc/209/task/209/fd’: Permission denied
+find: ‘/proc/209/task/209/fdinfo’: Permission denied
+find: ‘/proc/209/task/209/ns’: Permission denied
+find: ‘/proc/209/fd’: Permission denied
+find: ‘/proc/209/map_files’: Permission denied
+find: ‘/proc/209/fdinfo’: Permission denied
+find: ‘/proc/209/ns’: Permission denied
+find: ‘/proc/210/task/210/fd’: Permission denied
+find: ‘/proc/210/task/210/fdinfo’: Permission denied
+find: ‘/proc/210/task/210/ns’: Permission denied
+find: ‘/proc/210/fd’: Permission denied
+find: ‘/proc/210/map_files’: Permission denied
+find: ‘/proc/210/fdinfo’: Permission denied
+find: ‘/proc/210/ns’: Permission denied
+find: ‘/proc/211/task/211/fd’: Permission denied
+find: ‘/proc/211/task/211/fdinfo’: Permission denied
+find: ‘/proc/211/task/211/ns’: Permission denied
+find: ‘/proc/211/fd’: Permission denied
+find: ‘/proc/211/map_files’: Permission denied
+find: ‘/proc/211/fdinfo’: Permission denied
+find: ‘/proc/211/ns’: Permission denied
+find: ‘/proc/212/task/212/fd’: Permission denied
+find: ‘/proc/212/task/212/fdinfo’: Permission denied
+find: ‘/proc/212/task/212/ns’: Permission denied
+find: ‘/proc/212/fd’: Permission denied
+find: ‘/proc/212/map_files’: Permission denied
+find: ‘/proc/212/fdinfo’: Permission denied
+find: ‘/proc/212/ns’: Permission denied
+find: ‘/proc/213/task/213/fd’: Permission denied
+find: ‘/proc/213/task/213/fdinfo’: Permission denied
+find: ‘/proc/213/task/213/ns’: Permission denied
+find: ‘/proc/213/fd’: Permission denied
+find: ‘/proc/213/map_files’: Permission denied
+find: ‘/proc/213/fdinfo’: Permission denied
+find: ‘/proc/213/ns’: Permission denied
+find: ‘/proc/214/task/214/fd’: Permission denied
+find: ‘/proc/214/task/214/fdinfo’: Permission denied
+find: ‘/proc/214/task/214/ns’: Permission denied
+find: ‘/proc/214/fd’: Permission denied
+find: ‘/proc/214/map_files’: Permission denied
+find: ‘/proc/214/fdinfo’: Permission denied
+find: ‘/proc/214/ns’: Permission denied
+find: ‘/proc/215/task/215/fd’: Permission denied
+find: ‘/proc/215/task/215/fdinfo’: Permission denied
+find: ‘/proc/215/task/215/ns’: Permission denied
+find: ‘/proc/215/fd’: Permission denied
+find: ‘/proc/215/map_files’: Permission denied
+find: ‘/proc/215/fdinfo’: Permission denied
+find: ‘/proc/215/ns’: Permission denied
+find: ‘/proc/216/task/216/fd’: Permission denied
+find: ‘/proc/216/task/216/fdinfo’: Permission denied
+find: ‘/proc/216/task/216/ns’: Permission denied
+find: ‘/proc/216/fd’: Permission denied
+find: ‘/proc/216/map_files’: Permission denied
+find: ‘/proc/216/fdinfo’: Permission denied
+find: ‘/proc/216/ns’: Permission denied
+find: ‘/proc/217/task/217/fd’: Permission denied
+find: ‘/proc/217/task/217/fdinfo’: Permission denied
+find: ‘/proc/217/task/217/ns’: Permission denied
+find: ‘/proc/217/fd’: Permission denied
+find: ‘/proc/217/map_files’: Permission denied
+find: ‘/proc/217/fdinfo’: Permission denied
+find: ‘/proc/217/ns’: Permission denied
+find: ‘/proc/218/task/218/fd’: Permission denied
+find: ‘/proc/218/task/218/fdinfo’: Permission denied
+find: ‘/proc/218/task/218/ns’: Permission denied
+find: ‘/proc/218/fd’: Permission denied
+find: ‘/proc/218/map_files’: Permission denied
+find: ‘/proc/218/fdinfo’: Permission denied
+find: ‘/proc/218/ns’: Permission denied
+find: ‘/proc/219/task/219/fd’: Permission denied
+find: ‘/proc/219/task/219/fdinfo’: Permission denied
+find: ‘/proc/219/task/219/ns’: Permission denied
+find: ‘/proc/219/fd’: Permission denied
+find: ‘/proc/219/map_files’: Permission denied
+find: ‘/proc/219/fdinfo’: Permission denied
+find: ‘/proc/219/ns’: Permission denied
+find: ‘/proc/220/task/220/fd’: Permission denied
+find: ‘/proc/220/task/220/fdinfo’: Permission denied
+find: ‘/proc/220/task/220/ns’: Permission denied
+find: ‘/proc/220/fd’: Permission denied
+find: ‘/proc/220/map_files’: Permission denied
+find: ‘/proc/220/fdinfo’: Permission denied
+find: ‘/proc/220/ns’: Permission denied
+find: ‘/proc/221/task/221/fd’: Permission denied
+find: ‘/proc/221/task/221/fdinfo’: Permission denied
+find: ‘/proc/221/task/221/ns’: Permission denied
+find: ‘/proc/221/fd’: Permission denied
+find: ‘/proc/221/map_files’: Permission denied
+find: ‘/proc/221/fdinfo’: Permission denied
+find: ‘/proc/221/ns’: Permission denied
+find: ‘/proc/222/task/222/fd’: Permission denied
+find: ‘/proc/222/task/222/fdinfo’: Permission denied
+find: ‘/proc/222/task/222/ns’: Permission denied
+find: ‘/proc/222/fd’: Permission denied
+find: ‘/proc/222/map_files’: Permission denied
+find: ‘/proc/222/fdinfo’: Permission denied
+find: ‘/proc/222/ns’: Permission denied
+find: ‘/proc/223/task/223/fd’: Permission denied
+find: ‘/proc/223/task/223/fdinfo’: Permission denied
+find: ‘/proc/223/task/223/ns’: Permission denied
+find: ‘/proc/223/fd’: Permission denied
+find: ‘/proc/223/map_files’: Permission denied
+find: ‘/proc/223/fdinfo’: Permission denied
+find: ‘/proc/223/ns’: Permission denied
+find: ‘/proc/224/task/224/fd’: Permission denied
+find: ‘/proc/224/task/224/fdinfo’: Permission denied
+find: ‘/proc/224/task/224/ns’: Permission denied
+find: ‘/proc/224/fd’: Permission denied
+find: ‘/proc/224/map_files’: Permission denied
+find: ‘/proc/224/fdinfo’: Permission denied
+find: ‘/proc/224/ns’: Permission denied
+find: ‘/proc/225/task/225/fd’: Permission denied
+find: ‘/proc/225/task/225/fdinfo’: Permission denied
+find: ‘/proc/225/task/225/ns’: Permission denied
+find: ‘/proc/225/fd’: Permission denied
+find: ‘/proc/225/map_files’: Permission denied
+find: ‘/proc/225/fdinfo’: Permission denied
+find: ‘/proc/225/ns’: Permission denied
+find: ‘/proc/226/task/226/fd’: Permission denied
+find: ‘/proc/226/task/226/fdinfo’: Permission denied
+find: ‘/proc/226/task/226/ns’: Permission denied
+find: ‘/proc/226/fd’: Permission denied
+find: ‘/proc/226/map_files’: Permission denied
+find: ‘/proc/226/fdinfo’: Permission denied
+find: ‘/proc/226/ns’: Permission denied
+find: ‘/proc/227/task/227/fd’: Permission denied
+find: ‘/proc/227/task/227/fdinfo’: Permission denied
+find: ‘/proc/227/task/227/ns’: Permission denied
+find: ‘/proc/227/fd’: Permission denied
+find: ‘/proc/227/map_files’: Permission denied
+find: ‘/proc/227/fdinfo’: Permission denied
+find: ‘/proc/227/ns’: Permission denied
+find: ‘/proc/228/task/228/fd’: Permission denied
+find: ‘/proc/228/task/228/fdinfo’: Permission denied
+find: ‘/proc/228/task/228/ns’: Permission denied
+find: ‘/proc/228/fd’: Permission denied
+find: ‘/proc/228/map_files’: Permission denied
+find: ‘/proc/228/fdinfo’: Permission denied
+find: ‘/proc/228/ns’: Permission denied
+find: ‘/proc/229/task/229/fd’: Permission denied
+find: ‘/proc/229/task/229/fdinfo’: Permission denied
+find: ‘/proc/229/task/229/ns’: Permission denied
+find: ‘/proc/229/fd’: Permission denied
+find: ‘/proc/229/map_files’: Permission denied
+find: ‘/proc/229/fdinfo’: Permission denied
+find: ‘/proc/229/ns’: Permission denied
+find: ‘/proc/230/task/230/fd’: Permission denied
+find: ‘/proc/230/task/230/fdinfo’: Permission denied
+find: ‘/proc/230/task/230/ns’: Permission denied
+find: ‘/proc/230/fd’: Permission denied
+find: ‘/proc/230/map_files’: Permission denied
+find: ‘/proc/230/fdinfo’: Permission denied
+find: ‘/proc/230/ns’: Permission denied
+find: ‘/proc/231/task/231/fd’: Permission denied
+find: ‘/proc/231/task/231/fdinfo’: Permission denied
+find: ‘/proc/231/task/231/ns’: Permission denied
+find: ‘/proc/231/fd’: Permission denied
+find: ‘/proc/231/map_files’: Permission denied
+find: ‘/proc/231/fdinfo’: Permission denied
+find: ‘/proc/231/ns’: Permission denied
+find: ‘/proc/232/task/232/fd’: Permission denied
+find: ‘/proc/232/task/232/fdinfo’: Permission denied
+find: ‘/proc/232/task/232/ns’: Permission denied
+find: ‘/proc/232/fd’: Permission denied
+find: ‘/proc/232/map_files’: Permission denied
+find: ‘/proc/232/fdinfo’: Permission denied
+find: ‘/proc/232/ns’: Permission denied
+find: ‘/proc/233/task/233/fd’: Permission denied
+find: ‘/proc/233/task/233/fdinfo’: Permission denied
+find: ‘/proc/233/task/233/ns’: Permission denied
+find: ‘/proc/233/fd’: Permission denied
+find: ‘/proc/233/map_files’: Permission denied
+find: ‘/proc/233/fdinfo’: Permission denied
+find: ‘/proc/233/ns’: Permission denied
+find: ‘/proc/234/task/234/fd’: Permission denied
+find: ‘/proc/234/task/234/fdinfo’: Permission denied
+find: ‘/proc/234/task/234/ns’: Permission denied
+find: ‘/proc/234/fd’: Permission denied
+find: ‘/proc/234/map_files’: Permission denied
+find: ‘/proc/234/fdinfo’: Permission denied
+find: ‘/proc/234/ns’: Permission denied
+find: ‘/proc/235/task/235/fd’: Permission denied
+find: ‘/proc/235/task/235/fdinfo’: Permission denied
+find: ‘/proc/235/task/235/ns’: Permission denied
+find: ‘/proc/235/fd’: Permission denied
+find: ‘/proc/235/map_files’: Permission denied
+find: ‘/proc/235/fdinfo’: Permission denied
+find: ‘/proc/235/ns’: Permission denied
+find: ‘/proc/287/task/287/fd’: Permission denied
+find: ‘/proc/287/task/287/fdinfo’: Permission denied
+find: ‘/proc/287/task/287/ns’: Permission denied
+find: ‘/proc/287/fd’: Permission denied
+find: ‘/proc/287/map_files’: Permission denied
+find: ‘/proc/287/fdinfo’: Permission denied
+find: ‘/proc/287/ns’: Permission denied
+find: ‘/proc/288/task/288/fd’: Permission denied
+find: ‘/proc/288/task/288/fdinfo’: Permission denied
+find: ‘/proc/288/task/288/ns’: Permission denied
+find: ‘/proc/288/fd’: Permission denied
+find: ‘/proc/288/map_files’: Permission denied
+find: ‘/proc/288/fdinfo’: Permission denied
+find: ‘/proc/288/ns’: Permission denied
+find: ‘/proc/323/task/323/fd’: Permission denied
+find: ‘/proc/323/task/323/fdinfo’: Permission denied
+find: ‘/proc/323/task/323/ns’: Permission denied
+find: ‘/proc/323/fd’: Permission denied
+find: ‘/proc/323/map_files’: Permission denied
+find: ‘/proc/323/fdinfo’: Permission denied
+find: ‘/proc/323/ns’: Permission denied
+find: ‘/proc/362/task/362/fd’: Permission denied
+find: ‘/proc/362/task/362/fdinfo’: Permission denied
+find: ‘/proc/362/task/362/ns’: Permission denied
+find: ‘/proc/362/fd’: Permission denied
+find: ‘/proc/362/map_files’: Permission denied
+find: ‘/proc/362/fdinfo’: Permission denied
+find: ‘/proc/362/ns’: Permission denied
+find: ‘/proc/379/task/379/fd’: Permission denied
+find: ‘/proc/379/task/379/fdinfo’: Permission denied
+find: ‘/proc/379/task/379/ns’: Permission denied
+find: ‘/proc/379/task/394/fd’: Permission denied
+find: ‘/proc/379/task/394/fdinfo’: Permission denied
+find: ‘/proc/379/task/394/ns’: Permission denied
+find: ‘/proc/379/fd’: Permission denied
+find: ‘/proc/379/map_files’: Permission denied
+find: ‘/proc/379/fdinfo’: Permission denied
+find: ‘/proc/379/ns’: Permission denied
+find: ‘/proc/381/task/381/fd’: Permission denied
+find: ‘/proc/381/task/381/fdinfo’: Permission denied
+find: ‘/proc/381/task/381/ns’: Permission denied
+find: ‘/proc/381/task/383/fd’: Permission denied
+find: ‘/proc/381/task/383/fdinfo’: Permission denied
+find: ‘/proc/381/task/383/ns’: Permission denied
+find: ‘/proc/381/task/384/fd’: Permission denied
+find: ‘/proc/381/task/384/fdinfo’: Permission denied
+find: ‘/proc/381/task/384/ns’: Permission denied
+find: ‘/proc/381/fd’: Permission denied
+find: ‘/proc/381/map_files’: Permission denied
+find: ‘/proc/381/fdinfo’: Permission denied
+find: ‘/proc/381/ns’: Permission denied
+find: ‘/proc/382/task/382/fd’: Permission denied
+find: ‘/proc/382/task/382/fdinfo’: Permission denied
+find: ‘/proc/382/task/382/ns’: Permission denied
+find: ‘/proc/382/task/672/fd’: Permission denied
+find: ‘/proc/382/task/672/fdinfo’: Permission denied
+find: ‘/proc/382/task/672/ns’: Permission denied
+find: ‘/proc/382/fd’: Permission denied
+find: ‘/proc/382/map_files’: Permission denied
+find: ‘/proc/382/fdinfo’: Permission denied
+find: ‘/proc/382/ns’: Permission denied
+find: ‘/proc/727/task/727/fd’: Permission denied
+find: ‘/proc/727/task/727/fdinfo’: Permission denied
+find: ‘/proc/727/task/727/ns’: Permission denied
+find: ‘/proc/727/fd’: Permission denied
+find: ‘/proc/727/map_files’: Permission denied
+find: ‘/proc/727/fdinfo’: Permission denied
+find: ‘/proc/727/ns’: Permission denied
+find: ‘/proc/731/task/731/fd’: Permission denied
+find: ‘/proc/731/task/731/fdinfo’: Permission denied
+find: ‘/proc/731/task/731/ns’: Permission denied
+find: ‘/proc/731/fd’: Permission denied
+find: ‘/proc/731/map_files’: Permission denied
+find: ‘/proc/731/fdinfo’: Permission denied
+find: ‘/proc/731/ns’: Permission denied
+find: ‘/proc/733/task/733/fd’: Permission denied
+find: ‘/proc/733/task/733/fdinfo’: Permission denied
+find: ‘/proc/733/task/733/ns’: Permission denied
+find: ‘/proc/733/fd’: Permission denied
+find: ‘/proc/733/map_files’: Permission denied
+find: ‘/proc/733/fdinfo’: Permission denied
+find: ‘/proc/733/ns’: Permission denied
+find: ‘/proc/795/task/795/fd’: Permission denied
+find: ‘/proc/795/task/795/fdinfo’: Permission denied
+find: ‘/proc/795/task/795/ns’: Permission denied
+find: ‘/proc/795/task/886/fd’: Permission denied
+find: ‘/proc/795/task/886/fdinfo’: Permission denied
+find: ‘/proc/795/task/886/ns’: Permission denied
+find: ‘/proc/795/task/887/fd’: Permission denied
+find: ‘/proc/795/task/887/fdinfo’: Permission denied
+find: ‘/proc/795/task/887/ns’: Permission denied
+find: ‘/proc/795/task/888/fd’: Permission denied
+find: ‘/proc/795/task/888/fdinfo’: Permission denied
+find: ‘/proc/795/task/888/ns’: Permission denied
+find: ‘/proc/795/fd’: Permission denied
+find: ‘/proc/795/map_files’: Permission denied
+find: ‘/proc/795/fdinfo’: Permission denied
+find: ‘/proc/795/ns’: Permission denied
+find: ‘/proc/796/task/796/fd’: Permission denied
+find: ‘/proc/796/task/796/fdinfo’: Permission denied
+find: ‘/proc/796/task/796/ns’: Permission denied
+find: ‘/proc/796/task/904/fd’: Permission denied
+find: ‘/proc/796/task/904/fdinfo’: Permission denied
+find: ‘/proc/796/task/904/ns’: Permission denied
+find: ‘/proc/796/task/910/fd’: Permission denied
+find: ‘/proc/796/task/910/fdinfo’: Permission denied
+find: ‘/proc/796/task/910/ns’: Permission denied
+find: ‘/proc/796/fd’: Permission denied
+find: ‘/proc/796/map_files’: Permission denied
+find: ‘/proc/796/fdinfo’: Permission denied
+find: ‘/proc/796/ns’: Permission denied
+find: ‘/proc/797/task/797/fd’: Permission denied
+find: ‘/proc/797/task/797/fdinfo’: Permission denied
+find: ‘/proc/797/task/797/ns’: Permission denied
+find: ‘/proc/797/task/928/fd’: Permission denied
+find: ‘/proc/797/task/928/fdinfo’: Permission denied
+find: ‘/proc/797/task/928/ns’: Permission denied
+find: ‘/proc/797/task/930/fd’: Permission denied
+find: ‘/proc/797/task/930/fdinfo’: Permission denied
+find: ‘/proc/797/task/930/ns’: Permission denied
+find: ‘/proc/797/fd’: Permission denied
+find: ‘/proc/797/map_files’: Permission denied
+find: ‘/proc/797/fdinfo’: Permission denied
+find: ‘/proc/797/ns’: Permission denied
+find: ‘/proc/800/task/800/fd’: Permission denied
+find: ‘/proc/800/task/800/fdinfo’: Permission denied
+find: ‘/proc/800/task/800/ns’: Permission denied
+find: ‘/proc/800/fd’: Permission denied
+find: ‘/proc/800/map_files’: Permission denied
+find: ‘/proc/800/fdinfo’: Permission denied
+find: ‘/proc/800/ns’: Permission denied
+find: ‘/proc/801/task/801/fd’: Permission denied
+find: ‘/proc/801/task/801/fdinfo’: Permission denied
+find: ‘/proc/801/task/801/ns’: Permission denied
+find: ‘/proc/801/fd’: Permission denied
+find: ‘/proc/801/map_files’: Permission denied
+find: ‘/proc/801/fdinfo’: Permission denied
+find: ‘/proc/801/ns’: Permission denied
+find: ‘/proc/802/task/802/fd’: Permission denied
+find: ‘/proc/802/task/802/fdinfo’: Permission denied
+find: ‘/proc/802/task/802/ns’: Permission denied
+find: ‘/proc/802/fd’: Permission denied
+find: ‘/proc/802/map_files’: Permission denied
+find: ‘/proc/802/fdinfo’: Permission denied
+find: ‘/proc/802/ns’: Permission denied
+find: ‘/proc/806/task/806/fd’: Permission denied
+find: ‘/proc/806/task/806/fdinfo’: Permission denied
+find: ‘/proc/806/task/806/ns’: Permission denied
+find: ‘/proc/806/fd’: Permission denied
+find: ‘/proc/806/map_files’: Permission denied
+find: ‘/proc/806/fdinfo’: Permission denied
+find: ‘/proc/806/ns’: Permission denied
+find: ‘/proc/844/task/844/fd’: Permission denied
+find: ‘/proc/844/task/844/fdinfo’: Permission denied
+find: ‘/proc/844/task/844/ns’: Permission denied
+find: ‘/proc/844/fd’: Permission denied
+find: ‘/proc/844/map_files’: Permission denied
+find: ‘/proc/844/fdinfo’: Permission denied
+find: ‘/proc/844/ns’: Permission denied
+find: ‘/proc/907/task/907/fd’: Permission denied
+find: ‘/proc/907/task/907/fdinfo’: Permission denied
+find: ‘/proc/907/task/907/ns’: Permission denied
+find: ‘/proc/907/fd’: Permission denied
+find: ‘/proc/907/map_files’: Permission denied
+find: ‘/proc/907/fdinfo’: Permission denied
+find: ‘/proc/907/ns’: Permission denied
+find: ‘/proc/926/task/926/fd’: Permission denied
+find: ‘/proc/926/task/926/fdinfo’: Permission denied
+find: ‘/proc/926/task/926/ns’: Permission denied
+find: ‘/proc/926/task/931/fd’: Permission denied
+find: ‘/proc/926/task/931/fdinfo’: Permission denied
+find: ‘/proc/926/task/931/ns’: Permission denied
+find: ‘/proc/926/task/934/fd’: Permission denied
+find: ‘/proc/926/task/934/fdinfo’: Permission denied
+find: ‘/proc/926/task/934/ns’: Permission denied
+find: ‘/proc/926/fd’: Permission denied
+find: ‘/proc/926/map_files’: Permission denied
+find: ‘/proc/926/fdinfo’: Permission denied
+find: ‘/proc/926/ns’: Permission denied
+find: ‘/proc/936/task/936/fd’: Permission denied
+find: ‘/proc/936/task/936/fdinfo’: Permission denied
+find: ‘/proc/936/task/936/ns’: Permission denied
+find: ‘/proc/936/task/1036/fd’: Permission denied
+find: ‘/proc/936/task/1036/fdinfo’: Permission denied
+find: ‘/proc/936/task/1036/ns’: Permission denied
+find: ‘/proc/936/fd’: Permission denied
+find: ‘/proc/936/map_files’: Permission denied
+find: ‘/proc/936/fdinfo’: Permission denied
+find: ‘/proc/936/ns’: Permission denied
+find: ‘/proc/938/task/938/fd’: Permission denied
+find: ‘/proc/938/task/938/fdinfo’: Permission denied
+find: ‘/proc/938/task/938/ns’: Permission denied
+find: ‘/proc/938/task/939/fd’: Permission denied
+find: ‘/proc/938/task/939/fdinfo’: Permission denied
+find: ‘/proc/938/task/939/ns’: Permission denied
+find: ‘/proc/938/task/941/fd’: Permission denied
+find: ‘/proc/938/task/941/fdinfo’: Permission denied
+find: ‘/proc/938/task/941/ns’: Permission denied
+find: ‘/proc/938/fd’: Permission denied
+find: ‘/proc/938/map_files’: Permission denied
+find: ‘/proc/938/fdinfo’: Permission denied
+find: ‘/proc/938/ns’: Permission denied
+find: ‘/proc/947/task/947/fd’: Permission denied
+find: ‘/proc/947/task/947/fdinfo’: Permission denied
+find: ‘/proc/947/task/947/ns’: Permission denied
+find: ‘/proc/947/task/1203/fd’: Permission denied
+find: ‘/proc/947/task/1203/fdinfo’: Permission denied
+find: ‘/proc/947/task/1203/ns’: Permission denied
+find: ‘/proc/947/fd’: Permission denied
+find: ‘/proc/947/map_files’: Permission denied
+find: ‘/proc/947/fdinfo’: Permission denied
+find: ‘/proc/947/ns’: Permission denied
+find: ‘/proc/983/task/983/fd’: Permission denied
+find: ‘/proc/983/task/983/fdinfo’: Permission denied
+find: ‘/proc/983/task/983/ns’: Permission denied
+find: ‘/proc/983/fd’: Permission denied
+find: ‘/proc/983/map_files’: Permission denied
+find: ‘/proc/983/fdinfo’: Permission denied
+find: ‘/proc/983/ns’: Permission denied
+find: ‘/proc/1158/task/1158/fd’: Permission denied
+find: ‘/proc/1158/task/1158/fdinfo’: Permission denied
+find: ‘/proc/1158/task/1158/ns’: Permission denied
+find: ‘/proc/1158/task/1192/fd’: Permission denied
+find: ‘/proc/1158/task/1192/fdinfo’: Permission denied
+find: ‘/proc/1158/task/1192/ns’: Permission denied
+find: ‘/proc/1158/task/1193/fd’: Permission denied
+find: ‘/proc/1158/task/1193/fdinfo’: Permission denied
+find: ‘/proc/1158/task/1193/ns’: Permission denied
+find: ‘/proc/1158/fd’: Permission denied
+find: ‘/proc/1158/map_files’: Permission denied
+find: ‘/proc/1158/fdinfo’: Permission denied
+find: ‘/proc/1158/ns’: Permission denied
+find: ‘/proc/1225/task/1225/fd’: Permission denied
+find: ‘/proc/1225/task/1225/fdinfo’: Permission denied
+find: ‘/proc/1225/task/1225/ns’: Permission denied
+find: ‘/proc/1225/fd’: Permission denied
+find: ‘/proc/1225/map_files’: Permission denied
+find: ‘/proc/1225/fdinfo’: Permission denied
+find: ‘/proc/1225/ns’: Permission denied
+find: ‘/proc/1308/task/1308/fd’: Permission denied
+find: ‘/proc/1308/task/1308/fdinfo’: Permission denied
+find: ‘/proc/1308/task/1308/ns’: Permission denied
+find: ‘/proc/1308/fd’: Permission denied
+find: ‘/proc/1308/map_files’: Permission denied
+find: ‘/proc/1308/fdinfo’: Permission denied
+find: ‘/proc/1308/ns’: Permission denied
+find: ‘/proc/1340/task/1340/fd’: Permission denied
+find: ‘/proc/1340/task/1340/fdinfo’: Permission denied
+find: ‘/proc/1340/task/1340/ns’: Permission denied
+find: ‘/proc/1340/fd’: Permission denied
+find: ‘/proc/1340/map_files’: Permission denied
+find: ‘/proc/1340/fdinfo’: Permission denied
+find: ‘/proc/1340/ns’: Permission denied
+find: ‘/proc/1343/task/1343/fd’: Permission denied
+find: ‘/proc/1343/task/1343/fdinfo’: Permission denied
+find: ‘/proc/1343/task/1343/ns’: Permission denied
+find: ‘/proc/1343/fd’: Permission denied
+find: ‘/proc/1343/map_files’: Permission denied
+find: ‘/proc/1343/fdinfo’: Permission denied
+find: ‘/proc/1343/ns’: Permission denied
+find: ‘/proc/1350/task/1350/fd’: Permission denied
+find: ‘/proc/1350/task/1350/fdinfo’: Permission denied
+find: ‘/proc/1350/task/1350/ns’: Permission denied
+find: ‘/proc/1350/fd’: Permission denied
+find: ‘/proc/1350/map_files’: Permission denied
+find: ‘/proc/1350/fdinfo’: Permission denied
+find: ‘/proc/1350/ns’: Permission denied
+find: ‘/proc/1354/task/1354/fd’: Permission denied
+find: ‘/proc/1354/task/1354/fdinfo’: Permission denied
+find: ‘/proc/1354/task/1354/ns’: Permission denied
+find: ‘/proc/1354/task/1482/fd’: Permission denied
+find: ‘/proc/1354/task/1482/fdinfo’: Permission denied
+find: ‘/proc/1354/task/1482/ns’: Permission denied
+find: ‘/proc/1354/task/1483/fd’: Permission denied
+find: ‘/proc/1354/task/1483/fdinfo’: Permission denied
+find: ‘/proc/1354/task/1483/ns’: Permission denied
+find: ‘/proc/1354/fd’: Permission denied
+find: ‘/proc/1354/map_files’: Permission denied
+find: ‘/proc/1354/fdinfo’: Permission denied
+find: ‘/proc/1354/ns’: Permission denied
+find: ‘/proc/1419/task/1419/fd’: Permission denied
+find: ‘/proc/1419/task/1419/fdinfo’: Permission denied
+find: ‘/proc/1419/task/1419/ns’: Permission denied
+find: ‘/proc/1419/task/1432/fd’: Permission denied
+find: ‘/proc/1419/task/1432/fdinfo’: Permission denied
+find: ‘/proc/1419/task/1432/ns’: Permission denied
+find: ‘/proc/1419/task/1433/fd’: Permission denied
+find: ‘/proc/1419/task/1433/fdinfo’: Permission denied
+find: ‘/proc/1419/task/1433/ns’: Permission denied
+find: ‘/proc/1419/fd’: Permission denied
+find: ‘/proc/1419/map_files’: Permission denied
+find: ‘/proc/1419/fdinfo’: Permission denied
+find: ‘/proc/1419/ns’: Permission denied
+find: ‘/proc/1431/task/1431/fd’: Permission denied
+find: ‘/proc/1431/task/1431/fdinfo’: Permission denied
+find: ‘/proc/1431/task/1431/ns’: Permission denied
+find: ‘/proc/1431/task/1454/fd’: Permission denied
+find: ‘/proc/1431/task/1454/fdinfo’: Permission denied
+find: ‘/proc/1431/task/1454/ns’: Permission denied
+find: ‘/proc/1431/task/1455/fd’: Permission denied
+find: ‘/proc/1431/task/1455/fdinfo’: Permission denied
+find: ‘/proc/1431/task/1455/ns’: Permission denied
+find: ‘/proc/1431/fd’: Permission denied
+find: ‘/proc/1431/map_files’: Permission denied
+find: ‘/proc/1431/fdinfo’: Permission denied
+find: ‘/proc/1431/ns’: Permission denied
+find: ‘/proc/1453/task/1453/fd’: Permission denied
+find: ‘/proc/1453/task/1453/fdinfo’: Permission denied
+find: ‘/proc/1453/task/1453/ns’: Permission denied
+find: ‘/proc/1453/task/1456/fd’: Permission denied
+find: ‘/proc/1453/task/1456/fdinfo’: Permission denied
+find: ‘/proc/1453/task/1456/ns’: Permission denied
+find: ‘/proc/1453/task/1458/fd’: Permission denied
+find: ‘/proc/1453/task/1458/fdinfo’: Permission denied
+find: ‘/proc/1453/task/1458/ns’: Permission denied
+find: ‘/proc/1453/fd’: Permission denied
+find: ‘/proc/1453/map_files’: Permission denied
+find: ‘/proc/1453/fdinfo’: Permission denied
+find: ‘/proc/1453/ns’: Permission denied
+find: ‘/proc/1472/task/1472/fd’: Permission denied
+find: ‘/proc/1472/task/1472/fdinfo’: Permission denied
+find: ‘/proc/1472/task/1472/ns’: Permission denied
+find: ‘/proc/1472/fd’: Permission denied
+find: ‘/proc/1472/map_files’: Permission denied
+find: ‘/proc/1472/fdinfo’: Permission denied
+find: ‘/proc/1472/ns’: Permission denied
+find: ‘/proc/1489/task/1489/fd’: Permission denied
+find: ‘/proc/1489/task/1489/fdinfo’: Permission denied
+find: ‘/proc/1489/task/1489/ns’: Permission denied
+find: ‘/proc/1489/fd’: Permission denied
+find: ‘/proc/1489/map_files’: Permission denied
+find: ‘/proc/1489/fdinfo’: Permission denied
+find: ‘/proc/1489/ns’: Permission denied
+find: ‘/proc/1494/task/1494/fd’: Permission denied
+find: ‘/proc/1494/task/1494/fdinfo’: Permission denied
+find: ‘/proc/1494/task/1494/ns’: Permission denied
+find: ‘/proc/1494/task/1495/fd’: Permission denied
+find: ‘/proc/1494/task/1495/fdinfo’: Permission denied
+find: ‘/proc/1494/task/1495/ns’: Permission denied
+find: ‘/proc/1494/task/1628/fd’: Permission denied
+find: ‘/proc/1494/task/1628/fdinfo’: Permission denied
+find: ‘/proc/1494/task/1628/ns’: Permission denied
+find: ‘/proc/1494/task/1629/fd’: Permission denied
+find: ‘/proc/1494/task/1629/fdinfo’: Permission denied
+find: ‘/proc/1494/task/1629/ns’: Permission denied
+find: ‘/proc/1494/fd’: Permission denied
+find: ‘/proc/1494/map_files’: Permission denied
+find: ‘/proc/1494/fdinfo’: Permission denied
+find: ‘/proc/1494/ns’: Permission denied
+find: ‘/proc/1703/task/1703/fd’: Permission denied
+find: ‘/proc/1703/task/1703/fdinfo’: Permission denied
+find: ‘/proc/1703/task/1703/ns’: Permission denied
+find: ‘/proc/1703/fd’: Permission denied
+find: ‘/proc/1703/map_files’: Permission denied
+find: ‘/proc/1703/fdinfo’: Permission denied
+find: ‘/proc/1703/ns’: Permission denied
+find: ‘/proc/1949/task/1949/fd’: Permission denied
+find: ‘/proc/1949/task/1949/fdinfo’: Permission denied
+find: ‘/proc/1949/task/1949/ns’: Permission denied
+find: ‘/proc/1949/task/1973/fd’: Permission denied
+find: ‘/proc/1949/task/1973/fdinfo’: Permission denied
+find: ‘/proc/1949/task/1973/ns’: Permission denied
+find: ‘/proc/1949/task/1975/fd’: Permission denied
+find: ‘/proc/1949/task/1975/fdinfo’: Permission denied
+find: ‘/proc/1949/task/1975/ns’: Permission denied
+find: ‘/proc/1949/task/1978/fd’: Permission denied
+find: ‘/proc/1949/task/1978/fdinfo’: Permission denied
+find: ‘/proc/1949/task/1978/ns’: Permission denied
+find: ‘/proc/1949/task/1979/fd’: Permission denied
+find: ‘/proc/1949/task/1979/fdinfo’: Permission denied
+find: ‘/proc/1949/task/1979/ns’: Permission denied
+find: ‘/proc/1949/fd’: Permission denied
+find: ‘/proc/1949/map_files’: Permission denied
+find: ‘/proc/1949/fdinfo’: Permission denied
+find: ‘/proc/1949/ns’: Permission denied
+find: ‘/proc/2004/task/2004/fd’: Permission denied
+find: ‘/proc/2004/task/2004/fdinfo’: Permission denied
+find: ‘/proc/2004/task/2004/ns’: Permission denied
+find: ‘/proc/2004/task/2020/fd’: Permission denied
+find: ‘/proc/2004/task/2020/fdinfo’: Permission denied
+find: ‘/proc/2004/task/2020/ns’: Permission denied
+find: ‘/proc/2004/task/2064/fd’: Permission denied
+find: ‘/proc/2004/task/2064/fdinfo’: Permission denied
+find: ‘/proc/2004/task/2064/ns’: Permission denied
+find: ‘/proc/2004/task/2065/fd’: Permission denied
+find: ‘/proc/2004/task/2065/fdinfo’: Permission denied
+find: ‘/proc/2004/task/2065/ns’: Permission denied
+find: ‘/proc/2004/task/2066/fd’: Permission denied
+find: ‘/proc/2004/task/2066/fdinfo’: Permission denied
+find: ‘/proc/2004/task/2066/ns’: Permission denied
+find: ‘/proc/2004/fd’: Permission denied
+find: ‘/proc/2004/map_files’: Permission denied
+find: ‘/proc/2004/fdinfo’: Permission denied
+find: ‘/proc/2004/ns’: Permission denied
+find: ‘/proc/11129/task/11129/fd’: Permission denied
+find: ‘/proc/11129/task/11129/fdinfo’: Permission denied
+find: ‘/proc/11129/task/11129/ns’: Permission denied
+find: ‘/proc/11129/fd’: Permission denied
+find: ‘/proc/11129/map_files’: Permission denied
+find: ‘/proc/11129/fdinfo’: Permission denied
+find: ‘/proc/11129/ns’: Permission denied
+find: ‘/proc/12711/task/12711/fd’: Permission denied
+find: ‘/proc/12711/task/12711/fdinfo’: Permission denied
+find: ‘/proc/12711/task/12711/ns’: Permission denied
+find: ‘/proc/12711/fd’: Permission denied
+find: ‘/proc/12711/map_files’: Permission denied
+find: ‘/proc/12711/fdinfo’: Permission denied
+find: ‘/proc/12711/ns’: Permission denied
+find: ‘/proc/12712/task/12712/fd’: Permission denied
+find: ‘/proc/12712/task/12712/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12712/ns’: Permission denied
+find: ‘/proc/12712/task/12746/fd’: Permission denied
+find: ‘/proc/12712/task/12746/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12746/ns’: Permission denied
+find: ‘/proc/12712/task/12747/fd’: Permission denied
+find: ‘/proc/12712/task/12747/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12747/ns’: Permission denied
+find: ‘/proc/12712/task/12748/fd’: Permission denied
+find: ‘/proc/12712/task/12748/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12748/ns’: Permission denied
+find: ‘/proc/12712/task/12749/fd’: Permission denied
+find: ‘/proc/12712/task/12749/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12749/ns’: Permission denied
+find: ‘/proc/12712/task/12750/fd’: Permission denied
+find: ‘/proc/12712/task/12750/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12750/ns’: Permission denied
+find: ‘/proc/12712/task/12751/fd’: Permission denied
+find: ‘/proc/12712/task/12751/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12751/ns’: Permission denied
+find: ‘/proc/12712/task/12752/fd’: Permission denied
+find: ‘/proc/12712/task/12752/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12752/ns’: Permission denied
+find: ‘/proc/12712/task/12753/fd’: Permission denied
+find: ‘/proc/12712/task/12753/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12753/ns’: Permission denied
+find: ‘/proc/12712/task/12754/fd’: Permission denied
+find: ‘/proc/12712/task/12754/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12754/ns’: Permission denied
+find: ‘/proc/12712/task/12755/fd’: Permission denied
+find: ‘/proc/12712/task/12755/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12755/ns’: Permission denied
+find: ‘/proc/12712/task/12756/fd’: Permission denied
+find: ‘/proc/12712/task/12756/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12756/ns’: Permission denied
+find: ‘/proc/12712/task/12757/fd’: Permission denied
+find: ‘/proc/12712/task/12757/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12757/ns’: Permission denied
+find: ‘/proc/12712/task/12758/fd’: Permission denied
+find: ‘/proc/12712/task/12758/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12758/ns’: Permission denied
+find: ‘/proc/12712/task/12759/fd’: Permission denied
+find: ‘/proc/12712/task/12759/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12759/ns’: Permission denied
+find: ‘/proc/12712/task/12760/fd’: Permission denied
+find: ‘/proc/12712/task/12760/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12760/ns’: Permission denied
+find: ‘/proc/12712/task/12761/fd’: Permission denied
+find: ‘/proc/12712/task/12761/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12761/ns’: Permission denied
+find: ‘/proc/12712/task/12762/fd’: Permission denied
+find: ‘/proc/12712/task/12762/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12762/ns’: Permission denied
+find: ‘/proc/12712/task/12763/fd’: Permission denied
+find: ‘/proc/12712/task/12763/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12763/ns’: Permission denied
+find: ‘/proc/12712/task/12764/fd’: Permission denied
+find: ‘/proc/12712/task/12764/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12764/ns’: Permission denied
+find: ‘/proc/12712/task/12765/fd’: Permission denied
+find: ‘/proc/12712/task/12765/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12765/ns’: Permission denied
+find: ‘/proc/12712/task/12766/fd’: Permission denied
+find: ‘/proc/12712/task/12766/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12766/ns’: Permission denied
+find: ‘/proc/12712/task/12767/fd’: Permission denied
+find: ‘/proc/12712/task/12767/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12767/ns’: Permission denied
+find: ‘/proc/12712/task/12768/fd’: Permission denied
+find: ‘/proc/12712/task/12768/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12768/ns’: Permission denied
+find: ‘/proc/12712/task/12769/fd’: Permission denied
+find: ‘/proc/12712/task/12769/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12769/ns’: Permission denied
+find: ‘/proc/12712/task/12770/fd’: Permission denied
+find: ‘/proc/12712/task/12770/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12770/ns’: Permission denied
+find: ‘/proc/12712/task/12771/fd’: Permission denied
+find: ‘/proc/12712/task/12771/fdinfo’: Permission denied
+find: ‘/proc/12712/task/12771/ns’: Permission denied
+find: ‘/proc/12712/fd’: Permission denied
+find: ‘/proc/12712/map_files’: Permission denied
+find: ‘/proc/12712/fdinfo’: Permission denied
+find: ‘/proc/12712/ns’: Permission denied
+find: ‘/proc/12713/task/12713/fd’: Permission denied
+find: ‘/proc/12713/task/12713/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12713/ns’: Permission denied
+find: ‘/proc/12713/task/12718/fd’: Permission denied
+find: ‘/proc/12713/task/12718/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12718/ns’: Permission denied
+find: ‘/proc/12713/task/12719/fd’: Permission denied
+find: ‘/proc/12713/task/12719/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12719/ns’: Permission denied
+find: ‘/proc/12713/task/12720/fd’: Permission denied
+find: ‘/proc/12713/task/12720/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12720/ns’: Permission denied
+find: ‘/proc/12713/task/12721/fd’: Permission denied
+find: ‘/proc/12713/task/12721/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12721/ns’: Permission denied
+find: ‘/proc/12713/task/12722/fd’: Permission denied
+find: ‘/proc/12713/task/12722/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12722/ns’: Permission denied
+find: ‘/proc/12713/task/12723/fd’: Permission denied
+find: ‘/proc/12713/task/12723/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12723/ns’: Permission denied
+find: ‘/proc/12713/task/12724/fd’: Permission denied
+find: ‘/proc/12713/task/12724/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12724/ns’: Permission denied
+find: ‘/proc/12713/task/12725/fd’: Permission denied
+find: ‘/proc/12713/task/12725/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12725/ns’: Permission denied
+find: ‘/proc/12713/task/12726/fd’: Permission denied
+find: ‘/proc/12713/task/12726/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12726/ns’: Permission denied
+find: ‘/proc/12713/task/12727/fd’: Permission denied
+find: ‘/proc/12713/task/12727/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12727/ns’: Permission denied
+find: ‘/proc/12713/task/12728/fd’: Permission denied
+find: ‘/proc/12713/task/12728/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12728/ns’: Permission denied
+find: ‘/proc/12713/task/12729/fd’: Permission denied
+find: ‘/proc/12713/task/12729/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12729/ns’: Permission denied
+find: ‘/proc/12713/task/12730/fd’: Permission denied
+find: ‘/proc/12713/task/12730/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12730/ns’: Permission denied
+find: ‘/proc/12713/task/12731/fd’: Permission denied
+find: ‘/proc/12713/task/12731/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12731/ns’: Permission denied
+find: ‘/proc/12713/task/12732/fd’: Permission denied
+find: ‘/proc/12713/task/12732/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12732/ns’: Permission denied
+find: ‘/proc/12713/task/12733/fd’: Permission denied
+find: ‘/proc/12713/task/12733/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12733/ns’: Permission denied
+find: ‘/proc/12713/task/12734/fd’: Permission denied
+find: ‘/proc/12713/task/12734/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12734/ns’: Permission denied
+find: ‘/proc/12713/task/12735/fd’: Permission denied
+find: ‘/proc/12713/task/12735/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12735/ns’: Permission denied
+find: ‘/proc/12713/task/12736/fd’: Permission denied
+find: ‘/proc/12713/task/12736/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12736/ns’: Permission denied
+find: ‘/proc/12713/task/12737/fd’: Permission denied
+find: ‘/proc/12713/task/12737/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12737/ns’: Permission denied
+find: ‘/proc/12713/task/12738/fd’: Permission denied
+find: ‘/proc/12713/task/12738/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12738/ns’: Permission denied
+find: ‘/proc/12713/task/12739/fd’: Permission denied
+find: ‘/proc/12713/task/12739/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12739/ns’: Permission denied
+find: ‘/proc/12713/task/12740/fd’: Permission denied
+find: ‘/proc/12713/task/12740/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12740/ns’: Permission denied
+find: ‘/proc/12713/task/12741/fd’: Permission denied
+find: ‘/proc/12713/task/12741/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12741/ns’: Permission denied
+find: ‘/proc/12713/task/12742/fd’: Permission denied
+find: ‘/proc/12713/task/12742/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12742/ns’: Permission denied
+find: ‘/proc/12713/task/12743/fd’: Permission denied
+find: ‘/proc/12713/task/12743/fdinfo’: Permission denied
+find: ‘/proc/12713/task/12743/ns’: Permission denied
+find: ‘/proc/12713/fd’: Permission denied
+find: ‘/proc/12713/map_files’: Permission denied
+find: ‘/proc/12713/fdinfo’: Permission denied
+find: ‘/proc/12713/ns’: Permission denied
+find: ‘/proc/12772/task/12772/fd’: Permission denied
+find: ‘/proc/12772/task/12772/fdinfo’: Permission denied
+find: ‘/proc/12772/task/12772/ns’: Permission denied
+find: ‘/proc/12772/fd’: Permission denied
+find: ‘/proc/12772/map_files’: Permission denied
+find: ‘/proc/12772/fdinfo’: Permission denied
+find: ‘/proc/12772/ns’: Permission denied
+find: ‘/proc/12773/task/12773/fd’: Permission denied
+find: ‘/proc/12773/task/12773/fdinfo’: Permission denied
+find: ‘/proc/12773/task/12773/ns’: Permission denied
+find: ‘/proc/12773/task/12776/fd’: Permission denied
+find: ‘/proc/12773/task/12776/fdinfo’: Permission denied
+find: ‘/proc/12773/task/12776/ns’: Permission denied
+find: ‘/proc/12773/task/12777/fd’: Permission denied
+find: ‘/proc/12773/task/12777/fdinfo’: Permission denied
+find: ‘/proc/12773/task/12777/ns’: Permission denied
+find: ‘/proc/12773/fd’: Permission denied
+find: ‘/proc/12773/map_files’: Permission denied
+find: ‘/proc/12773/fdinfo’: Permission denied
+find: ‘/proc/12773/ns’: Permission denied
+find: ‘/proc/12775/task/12775/fd’: Permission denied
+find: ‘/proc/12775/task/12775/fdinfo’: Permission denied
+find: ‘/proc/12775/task/12775/ns’: Permission denied
+find: ‘/proc/12775/fd’: Permission denied
+find: ‘/proc/12775/map_files’: Permission denied
+find: ‘/proc/12775/fdinfo’: Permission denied
+find: ‘/proc/12775/ns’: Permission denied
+find: ‘/proc/13145/task/13145/fd’: Permission denied
+find: ‘/proc/13145/task/13145/fdinfo’: Permission denied
+find: ‘/proc/13145/task/13145/ns’: Permission denied
+find: ‘/proc/13145/fd’: Permission denied
+find: ‘/proc/13145/map_files’: Permission denied
+find: ‘/proc/13145/fdinfo’: Permission denied
+find: ‘/proc/13145/ns’: Permission denied
+find: ‘/proc/13349/task/13349/fd’: Permission denied
+find: ‘/proc/13349/task/13349/fdinfo’: Permission denied
+find: ‘/proc/13349/task/13349/ns’: Permission denied
+find: ‘/proc/13349/fd’: Permission denied
+find: ‘/proc/13349/map_files’: Permission denied
+find: ‘/proc/13349/fdinfo’: Permission denied
+find: ‘/proc/13349/ns’: Permission denied
+find: ‘/proc/13350/task/13350/fd’: Permission denied
+find: ‘/proc/13350/task/13350/fdinfo’: Permission denied
+find: ‘/proc/13350/task/13350/ns’: Permission denied
+find: ‘/proc/13350/fd’: Permission denied
+find: ‘/proc/13350/map_files’: Permission denied
+find: ‘/proc/13350/fdinfo’: Permission denied
+find: ‘/proc/13350/ns’: Permission denied
+find: ‘/proc/13373/task/13373/fd’: Permission denied
+find: ‘/proc/13373/task/13373/fdinfo’: Permission denied
+find: ‘/proc/13373/task/13373/ns’: Permission denied
+find: ‘/proc/13373/fd’: Permission denied
+find: ‘/proc/13373/map_files’: Permission denied
+find: ‘/proc/13373/fdinfo’: Permission denied
+find: ‘/proc/13373/ns’: Permission denied
+find: ‘/proc/13625/task/13625/fd’: Permission denied
+find: ‘/proc/13625/task/13625/fdinfo’: Permission denied
+find: ‘/proc/13625/task/13625/ns’: Permission denied
+find: ‘/proc/13625/fd’: Permission denied
+find: ‘/proc/13625/map_files’: Permission denied
+find: ‘/proc/13625/fdinfo’: Permission denied
+find: ‘/proc/13625/ns’: Permission denied
+find: ‘/proc/13738/task/13738/fd’: Permission denied
+find: ‘/proc/13738/task/13738/fdinfo’: Permission denied
+find: ‘/proc/13738/task/13738/ns’: Permission denied
+find: ‘/proc/13738/fd’: Permission denied
+find: ‘/proc/13738/map_files’: Permission denied
+find: ‘/proc/13738/fdinfo’: Permission denied
+find: ‘/proc/13738/ns’: Permission denied
+find: ‘/proc/13741/task/13741/fd’: Permission denied
+find: ‘/proc/13741/task/13741/fdinfo’: Permission denied
+find: ‘/proc/13741/task/13741/ns’: Permission denied
+find: ‘/proc/13741/fd’: Permission denied
+find: ‘/proc/13741/map_files’: Permission denied
+find: ‘/proc/13741/fdinfo’: Permission denied
+find: ‘/proc/13741/ns’: Permission denied
+find: ‘/usr/local/lib/R/site-library/plotrix’: Permission denied
+/usr/include/python2.7/Python.h
+/usr/include/python3.5m/Python.h
+find: ‘/root’: Permission denied
+find: ‘/var/cache/lightdm/dmrc’: Permission denied
+find: ‘/var/cache/cups’: Permission denied
+find: ‘/var/cache/ldconfig’: Permission denied
+find: ‘/var/cache/apt/archives/partial’: Permission denied
+find: ‘/var/tmp/systemd-private-80700b32ef7242c081fe20fa828eda4c-systemd-timesyncd.service-oBJRiy’: Permission denied
+find: ‘/var/tmp/systemd-private-1b972fbaa6d14f218d03c3b594b34367-rtkit-daemon.service-lLbt0J’: Permission denied
+find: ‘/var/tmp/systemd-private-c7c1478c2db947b78e1589c32a230ab4-colord.service-Td5MfS’: Permission denied
+find: ‘/var/tmp/systemd-private-324f504714584a04b8488a0c1b7991ab-rtkit-daemon.service-uwBbEd’: Permission denied
+find: ‘/var/tmp/systemd-private-c8b84291656f4c1aa8d5b1aed6dba53a-fwupd.service-IgE22Q’: Permission denied
+find: ‘/var/tmp/systemd-private-accd2cbf75cf487bbf457718007f4704-fwupd.service-O693Fc’: Permission denied
+find: ‘/var/tmp/systemd-private-aa3e86dfa75549458c5c7f0da59228bb-colord.service-t4lkbl’: Permission denied
+find: ‘/var/tmp/systemd-private-80700b32ef7242c081fe20fa828eda4c-rtkit-daemon.service-hshrO2’: Permission denied
+find: ‘/var/tmp/systemd-private-9d7ff05f76df48bfbf658f9364da40ab-rtkit-daemon.service-OCfM4f’: Permission denied
+find: ‘/var/tmp/systemd-private-821b631b026e4372aed2b0006f7c3fc6-systemd-timesyncd.service-courff’: Permission denied
+find: ‘/var/tmp/systemd-private-6568b77038aa4fefb123f8b2ff1c477c-fwupd.service-S8C4HF’: Permission denied
+find: ‘/var/tmp/systemd-private-3d45c2ec968c444284c1ccf01a787ddf-rtkit-daemon.service-TlWhxw’: Permission denied
+find: ‘/var/tmp/systemd-private-44df1b34c236422c81b29381c4048ea9-colord.service-61qiH1’: Permission denied
+find: ‘/var/tmp/systemd-private-6568b77038aa4fefb123f8b2ff1c477c-rtkit-daemon.service-hNM7Tr’: Permission denied
+find: ‘/var/tmp/systemd-private-ba1feca8f1d54f6bb1884e07383d90a5-colord.service-5KcKot’: Permission denied
+find: ‘/var/tmp/systemd-private-c6234d1082024ca0bd58d28bc4fbaf6f-colord.service-729z2H’: Permission denied
+find: ‘/var/tmp/systemd-private-0a272cca393f4d3ead2b7732a03424bb-systemd-timesyncd.service-VoeVTB’: Permission denied
+find: ‘/var/tmp/systemd-private-837b22ebeba144a0b9a193d61cacd4a6-colord.service-fwS7AC’: Permission denied
+find: ‘/var/tmp/systemd-private-736cc607a27644159e4b76d2fecfc91b-systemd-timesyncd.service-Cja7b5’: Permission denied
+find: ‘/var/tmp/systemd-private-d9b7c90c2df340d9b57fba5d4048d553-fwupd.service-cJlxwZ’: Permission denied
+find: ‘/var/tmp/systemd-private-e0f0e3c4d40a4305a500d4d3e20ba5a3-systemd-timesyncd.service-bOSEZr’: Permission denied
+find: ‘/var/tmp/systemd-private-98486ffb42d543e0b726e6dc70d14e85-fwupd.service-NECIWZ’: Permission denied
+find: ‘/var/tmp/systemd-private-078d8d68c7e240aab283f6d202053bdf-fwupd.service-tuHSvg’: Permission denied
+find: ‘/var/tmp/systemd-private-b6869d1b939849f88dfe97b8fa316163-colord.service-fbj7vZ’: Permission denied
+find: ‘/var/tmp/systemd-private-88cc6337285949578c72c54a11c63fa6-rtkit-daemon.service-saHdlS’: Permission denied
+find: ‘/var/tmp/systemd-private-c6234d1082024ca0bd58d28bc4fbaf6f-fwupd.service-c7gK1N’: Permission denied
+find: ‘/var/tmp/systemd-private-e9854725a4014c7082b7d8dfd5a666ae-rtkit-daemon.service-xIwAUf’: Permission denied
+find: ‘/var/tmp/systemd-private-1b972fbaa6d14f218d03c3b594b34367-fwupd.service-0LEnZA’: Permission denied
+find: ‘/var/tmp/systemd-private-5b837a2ee5cf4a81930cd36cef0ad0f1-fwupd.service-vgPyh3’: Permission denied
+find: ‘/var/tmp/systemd-private-5d87b343909241359c9844e279233342-rtkit-daemon.service-ksNJzV’: Permission denied
+find: ‘/var/tmp/systemd-private-5b837a2ee5cf4a81930cd36cef0ad0f1-rtkit-daemon.service-uGvTlD’: Permission denied
+find: ‘/var/tmp/systemd-private-cb6d7d84d3594436a3997d9be25e429c-systemd-timesyncd.service-5KbLHQ’: Permission denied
+find: ‘/var/tmp/systemd-private-494a227a118e469ea289412c760cae71-fwupd.service-Aw25Iv’: Permission denied
+find: ‘/var/tmp/systemd-private-99409c2dda7c4216a414bee8c8d59ce8-fwupd.service-6tbWHt’: Permission denied
+find: ‘/var/tmp/systemd-private-4d6cf0d0e0f048d7994704f353af802a-colord.service-t8Dm3t’: Permission denied
+find: ‘/var/tmp/systemd-private-e0f0e3c4d40a4305a500d4d3e20ba5a3-fwupd.service-BbyHP5’: Permission denied
+find: ‘/var/tmp/systemd-private-e9854725a4014c7082b7d8dfd5a666ae-fwupd.service-C9x3KA’: Permission denied
+find: ‘/var/tmp/systemd-private-4d6cf0d0e0f048d7994704f353af802a-rtkit-daemon.service-Y4tAxT’: Permission denied
+find: ‘/var/tmp/systemd-private-99409c2dda7c4216a414bee8c8d59ce8-rtkit-daemon.service-IVjNjB’: Permission denied
+find: ‘/var/tmp/systemd-private-494a227a118e469ea289412c760cae71-rtkit-daemon.service-56ttiI’: Permission denied
+find: ‘/var/tmp/systemd-private-078d8d68c7e240aab283f6d202053bdf-systemd-timesyncd.service-c7h9Rz’: Permission denied
+find: ‘/var/tmp/systemd-private-b6869d1b939849f88dfe97b8fa316163-fwupd.service-YRMn1B’: Permission denied
+find: ‘/var/tmp/systemd-private-1b972fbaa6d14f218d03c3b594b34367-colord.service-EFM674’: Permission denied
+find: ‘/var/tmp/systemd-private-3d45c2ec968c444284c1ccf01a787ddf-colord.service-Z8OPBv’: Permission denied
+find: ‘/var/tmp/systemd-private-e9854725a4014c7082b7d8dfd5a666ae-systemd-timesyncd.service-cFcWbS’: Permission denied
+find: ‘/var/tmp/systemd-private-324f504714584a04b8488a0c1b7991ab-colord.service-o14zc4’: Permission denied
+find: ‘/var/tmp/systemd-private-9b5467934fef4c538b9db2c04d09b941-systemd-timesyncd.service-Oiia9g’: Permission denied
+find: ‘/var/tmp/systemd-private-821b631b026e4372aed2b0006f7c3fc6-fwupd.service-3JhK7X’: Permission denied
+find: ‘/var/tmp/systemd-private-634dea284ae8420392eca898527952c8-systemd-timesyncd.service-dd5fIU’: Permission denied
+find: ‘/var/tmp/systemd-private-80700b32ef7242c081fe20fa828eda4c-colord.service-x5BiLu’: Permission denied
+find: ‘/var/tmp/systemd-private-602d378d860448b79c01050221810e49-fwupd.service-GuSkxH’: Permission denied
+find: ‘/var/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-colord.service-eusVtu’: Permission denied
+find: ‘/var/tmp/systemd-private-98486ffb42d543e0b726e6dc70d14e85-colord.service-eiiz2e’: Permission denied
+find: ‘/var/tmp/systemd-private-accd2cbf75cf487bbf457718007f4704-rtkit-daemon.service-LSSUDE’: Permission denied
+find: ‘/var/tmp/systemd-private-8b2ea7e153374c30a0dd8313f5568b40-systemd-timesyncd.service-1pWSHn’: Permission denied
+find: ‘/var/tmp/systemd-private-c05ee8a1dd894cd28710d1cfd2ba8185-colord.service-LCakRy’: Permission denied
+find: ‘/var/tmp/systemd-private-c6234d1082024ca0bd58d28bc4fbaf6f-systemd-timesyncd.service-DsNcaK’: Permission denied
+find: ‘/var/tmp/systemd-private-837b22ebeba144a0b9a193d61cacd4a6-systemd-timesyncd.service-jBFEcg’: Permission denied
+find: ‘/var/tmp/systemd-private-1a0a20f9692e4dd5b89097f1270ec9cd-colord.service-C4ivIB’: Permission denied
+find: ‘/var/tmp/systemd-private-9d7ff05f76df48bfbf658f9364da40ab-colord.service-YEE5KL’: Permission denied
+find: ‘/var/tmp/systemd-private-821b631b026e4372aed2b0006f7c3fc6-colord.service-t9IFfl’: Permission denied
+find: ‘/var/tmp/systemd-private-1a0a20f9692e4dd5b89097f1270ec9cd-rtkit-daemon.service-e0Xmz7’: Permission denied
+find: ‘/var/tmp/systemd-private-fe34e5b6afc04d0b952c654d5fdae6a6-fwupd.service-RQ4UnO’: Permission denied
+find: ‘/var/tmp/systemd-private-d8566487594646df9887b1a77b3154cd-systemd-timesyncd.service-VgkJtE’: Permission denied
+find: ‘/var/tmp/systemd-private-9d7ff05f76df48bfbf658f9364da40ab-systemd-timesyncd.service-r1oLn9’: Permission denied
+find: ‘/var/tmp/systemd-private-efea3ca857fb4ed5b73595e1834d794a-colord.service-pNMi4W’: Permission denied
+find: ‘/var/tmp/systemd-private-0a272cca393f4d3ead2b7732a03424bb-colord.service-sFTnH1’: Permission denied
+find: ‘/var/tmp/systemd-private-e0f0e3c4d40a4305a500d4d3e20ba5a3-colord.service-1MSzcp’: Permission denied
+find: ‘/var/tmp/systemd-private-5b837a2ee5cf4a81930cd36cef0ad0f1-colord.service-86lmnI’: Permission denied
+find: ‘/var/tmp/systemd-private-c05ee8a1dd894cd28710d1cfd2ba8185-fwupd.service-jI6h1l’: Permission denied
+find: ‘/var/tmp/systemd-private-d9b7c90c2df340d9b57fba5d4048d553-colord.service-XIHLwZ’: Permission denied
+find: ‘/var/tmp/systemd-private-ba1feca8f1d54f6bb1884e07383d90a5-systemd-timesyncd.service-yIOA2n’: Permission denied
+find: ‘/var/tmp/systemd-private-77167af694be45479ce500c6eefb7629-rtkit-daemon.service-VZUtQD’: Permission denied
+find: ‘/var/tmp/systemd-private-44df1b34c236422c81b29381c4048ea9-fwupd.service-f4Bust’: Permission denied
+find: ‘/var/tmp/systemd-private-634dea284ae8420392eca898527952c8-colord.service-2h8F59’: Permission denied
+find: ‘/var/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-fwupd.service-XBZ7oK’: Permission denied
+find: ‘/var/tmp/systemd-private-c7c1478c2db947b78e1589c32a230ab4-rtkit-daemon.service-EiJ8KV’: Permission denied
+find: ‘/var/tmp/systemd-private-736cc607a27644159e4b76d2fecfc91b-fwupd.service-t2mb7U’: Permission denied
+find: ‘/var/tmp/systemd-private-634dea284ae8420392eca898527952c8-fwupd.service-KOF4wC’: Permission denied
+find: ‘/var/tmp/systemd-private-8b2ea7e153374c30a0dd8313f5568b40-fwupd.service-dVl6HX’: Permission denied
+find: ‘/var/tmp/systemd-private-eb0a4f12f08b4afca22e6e44e085dba3-colord.service-711dhw’: Permission denied
+find: ‘/var/tmp/systemd-private-c8b84291656f4c1aa8d5b1aed6dba53a-rtkit-daemon.service-lWOd2D’: Permission denied
+find: ‘/var/tmp/systemd-private-73ec73ad8ad8424aa9c1dcfb7f0ae26f-colord.service-jeXFvi’: Permission denied
+find: ‘/var/tmp/systemd-private-d9b7c90c2df340d9b57fba5d4048d553-rtkit-daemon.service-7jyEgJ’: Permission denied
+find: ‘/var/tmp/systemd-private-1a0a20f9692e4dd5b89097f1270ec9cd-systemd-timesyncd.service-4tozTO’: Permission denied
+find: ‘/var/tmp/systemd-private-5b39da5517494518b0db72e089e4f611-rtkit-daemon.service-X8krGA’: Permission denied
+find: ‘/var/tmp/systemd-private-695cb1e374074cb5930a42d845d12049-systemd-timesyncd.service-tTjmbc’: Permission denied
+find: ‘/var/tmp/systemd-private-602d378d860448b79c01050221810e49-colord.service-8riM5Y’: Permission denied
+find: ‘/var/tmp/systemd-private-4d6cf0d0e0f048d7994704f353af802a-fwupd.service-BRx1cc’: Permission denied
+find: ‘/var/tmp/systemd-private-736cc607a27644159e4b76d2fecfc91b-rtkit-daemon.service-2GmfdJ’: Permission denied
+find: ‘/var/tmp/systemd-private-e508737be92541b68100ed1d6ee82d6f-colord.service-byghkt’: Permission denied
+find: ‘/var/tmp/systemd-private-88cc6337285949578c72c54a11c63fa6-fwupd.service-MRVTtQ’: Permission denied
+find: ‘/var/tmp/systemd-private-77167af694be45479ce500c6eefb7629-colord.service-Fd10Bz’: Permission denied
+find: ‘/var/tmp/systemd-private-c6234d1082024ca0bd58d28bc4fbaf6f-rtkit-daemon.service-6uWpd7’: Permission denied
+find: ‘/var/tmp/systemd-private-d8566487594646df9887b1a77b3154cd-rtkit-daemon.service-S4ZUEs’: Permission denied
+find: ‘/var/tmp/systemd-private-98486ffb42d543e0b726e6dc70d14e85-rtkit-daemon.service-MyyFQW’: Permission denied
+find: ‘/var/tmp/systemd-private-ba1feca8f1d54f6bb1884e07383d90a5-rtkit-daemon.service-w0tEc5’: Permission denied
+find: ‘/var/tmp/systemd-private-c7c1478c2db947b78e1589c32a230ab4-systemd-timesyncd.service-1NUKH3’: Permission denied
+find: ‘/var/tmp/systemd-private-88cc6337285949578c72c54a11c63fa6-systemd-timesyncd.service-Y9Xgku’: Permission denied
+find: ‘/var/tmp/systemd-private-6568b77038aa4fefb123f8b2ff1c477c-colord.service-o7n2XA’: Permission denied
+find: ‘/var/tmp/systemd-private-aa3e86dfa75549458c5c7f0da59228bb-systemd-timesyncd.service-79J8bT’: Permission denied
+find: ‘/var/tmp/systemd-private-ba1feca8f1d54f6bb1884e07383d90a5-fwupd.service-BB6ivc’: Permission denied
+find: ‘/var/tmp/systemd-private-80700b32ef7242c081fe20fa828eda4c-fwupd.service-6Nz4CT’: Permission denied
+find: ‘/var/tmp/systemd-private-d8566487594646df9887b1a77b3154cd-fwupd.service-upOgaK’: Permission denied
+find: ‘/var/tmp/systemd-private-695cb1e374074cb5930a42d845d12049-fwupd.service-p22tkW’: Permission denied
+find: ‘/var/tmp/systemd-private-1a0a20f9692e4dd5b89097f1270ec9cd-fwupd.service-X5WCXm’: Permission denied
+find: ‘/var/tmp/systemd-private-6a43782c6864417a8878836fd3531f76-fwupd.service-csI9IL’: Permission denied
+find: ‘/var/tmp/systemd-private-837b22ebeba144a0b9a193d61cacd4a6-fwupd.service-PsG4P9’: Permission denied
+find: ‘/var/tmp/systemd-private-eb0a4f12f08b4afca22e6e44e085dba3-rtkit-daemon.service-rxl8oi’: Permission denied
+find: ‘/var/tmp/systemd-private-9b5467934fef4c538b9db2c04d09b941-rtkit-daemon.service-qtXVQp’: Permission denied
+find: ‘/var/tmp/systemd-private-5d87b343909241359c9844e279233342-systemd-timesyncd.service-x5oBvn’: Permission denied
+find: ‘/var/tmp/systemd-private-e508737be92541b68100ed1d6ee82d6f-rtkit-daemon.service-VHY1oM’: Permission denied
+find: ‘/var/tmp/systemd-private-695cb1e374074cb5930a42d845d12049-rtkit-daemon.service-zHIGSx’: Permission denied
+find: ‘/var/tmp/systemd-private-99409c2dda7c4216a414bee8c8d59ce8-colord.service-xZOfav’: Permission denied
+find: ‘/var/tmp/systemd-private-73ec73ad8ad8424aa9c1dcfb7f0ae26f-fwupd.service-mf1CRB’: Permission denied
+find: ‘/var/tmp/systemd-private-1c2f7b18be614486934014e900657edc-fwupd.service-gNaM1q’: Permission denied
+find: ‘/var/tmp/systemd-private-b6869d1b939849f88dfe97b8fa316163-systemd-timesyncd.service-pOywI2’: Permission denied
+find: ‘/var/tmp/systemd-private-cb6d7d84d3594436a3997d9be25e429c-colord.service-rZgSAA’: Permission denied
+find: ‘/var/tmp/systemd-private-5b39da5517494518b0db72e089e4f611-systemd-timesyncd.service-YzODlY’: Permission denied
+find: ‘/var/tmp/systemd-private-efea3ca857fb4ed5b73595e1834d794a-fwupd.service-vR9x82’: Permission denied
+find: ‘/var/tmp/systemd-private-c8b84291656f4c1aa8d5b1aed6dba53a-colord.service-9kJUGn’: Permission denied
+find: ‘/var/tmp/systemd-private-e0f0e3c4d40a4305a500d4d3e20ba5a3-rtkit-daemon.service-ST7WzN’: Permission denied
+find: ‘/var/tmp/systemd-private-6568b77038aa4fefb123f8b2ff1c477c-systemd-timesyncd.service-mrT76M’: Permission denied
+find: ‘/var/tmp/systemd-private-5b837a2ee5cf4a81930cd36cef0ad0f1-systemd-timesyncd.service-O5egs2’: Permission denied
+find: ‘/var/tmp/systemd-private-6a43782c6864417a8878836fd3531f76-systemd-timesyncd.service-Ik8MfV’: Permission denied
+find: ‘/var/tmp/systemd-private-602d378d860448b79c01050221810e49-systemd-timesyncd.service-ytsM2u’: Permission denied
+find: ‘/var/tmp/systemd-private-73ec73ad8ad8424aa9c1dcfb7f0ae26f-rtkit-daemon.service-Zj5pWa’: Permission denied
+find: ‘/var/tmp/systemd-private-77167af694be45479ce500c6eefb7629-fwupd.service-6Eowes’: Permission denied
+find: ‘/var/tmp/systemd-private-44df1b34c236422c81b29381c4048ea9-systemd-timesyncd.service-4N0fh7’: Permission denied
+find: ‘/var/tmp/systemd-private-5b39da5517494518b0db72e089e4f611-fwupd.service-NZ2TZ9’: Permission denied
+find: ‘/var/tmp/systemd-private-c8b84291656f4c1aa8d5b1aed6dba53a-systemd-timesyncd.service-MKNMx1’: Permission denied
+find: ‘/var/tmp/systemd-private-0a272cca393f4d3ead2b7732a03424bb-fwupd.service-lMB11w’: Permission denied
+find: ‘/var/tmp/systemd-private-1b972fbaa6d14f218d03c3b594b34367-systemd-timesyncd.service-LIsaKw’: Permission denied
+find: ‘/var/tmp/systemd-private-77167af694be45479ce500c6eefb7629-systemd-timesyncd.service-Kss2eH’: Permission denied
+find: ‘/var/tmp/systemd-private-eb0a4f12f08b4afca22e6e44e085dba3-fwupd.service-WkgqmY’: Permission denied
+find: ‘/var/tmp/systemd-private-3d45c2ec968c444284c1ccf01a787ddf-systemd-timesyncd.service-rZRu47’: Permission denied
+find: ‘/var/tmp/systemd-private-0a272cca393f4d3ead2b7732a03424bb-rtkit-daemon.service-m3GXl8’: Permission denied
+find: ‘/var/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-rtkit-daemon.service-x8bO9W’: Permission denied
+find: ‘/var/tmp/systemd-private-d8566487594646df9887b1a77b3154cd-colord.service-99NHHb’: Permission denied
+find: ‘/var/tmp/systemd-private-e508737be92541b68100ed1d6ee82d6f-systemd-timesyncd.service-n6FfH3’: Permission denied
+find: ‘/var/tmp/systemd-private-accd2cbf75cf487bbf457718007f4704-systemd-timesyncd.service-KwMBLw’: Permission denied
+find: ‘/var/tmp/systemd-private-cb6d7d84d3594436a3997d9be25e429c-rtkit-daemon.service-HZC7SP’: Permission denied
+find: ‘/var/tmp/systemd-private-cbf2848ad047494383edea08aef3b118-rtkit-daemon.service-KFkLLt’: Permission denied
+find: ‘/var/tmp/systemd-private-078d8d68c7e240aab283f6d202053bdf-rtkit-daemon.service-667HfW’: Permission denied
+find: ‘/var/tmp/systemd-private-fe34e5b6afc04d0b952c654d5fdae6a6-colord.service-7JkpuA’: Permission denied
+find: ‘/var/tmp/systemd-private-8b2ea7e153374c30a0dd8313f5568b40-rtkit-daemon.service-5IDGd4’: Permission denied
+find: ‘/var/tmp/systemd-private-e9854725a4014c7082b7d8dfd5a666ae-colord.service-BEIgPi’: Permission denied
+find: ‘/var/tmp/systemd-private-078d8d68c7e240aab283f6d202053bdf-colord.service-Jkr9dJ’: Permission denied
+find: ‘/var/tmp/systemd-private-5d87b343909241359c9844e279233342-colord.service-oZrAMj’: Permission denied
+find: ‘/var/tmp/systemd-private-1c2f7b18be614486934014e900657edc-rtkit-daemon.service-YWiV5W’: Permission denied
+find: ‘/var/tmp/systemd-private-695cb1e374074cb5930a42d845d12049-colord.service-fCCyxn’: Permission denied
+find: ‘/var/tmp/systemd-private-73ec73ad8ad8424aa9c1dcfb7f0ae26f-systemd-timesyncd.service-F0eUp0’: Permission denied
+find: ‘/var/tmp/systemd-private-3d45c2ec968c444284c1ccf01a787ddf-fwupd.service-G2ZZN1’: Permission denied
+find: ‘/var/tmp/systemd-private-9b5467934fef4c538b9db2c04d09b941-colord.service-RiXMQ1’: Permission denied
+find: ‘/var/tmp/systemd-private-cbf2848ad047494383edea08aef3b118-fwupd.service-lesUHu’: Permission denied
+find: ‘/var/tmp/systemd-private-494a227a118e469ea289412c760cae71-colord.service-2OpXE0’: Permission denied
+find: ‘/var/tmp/systemd-private-634dea284ae8420392eca898527952c8-rtkit-daemon.service-CRe02b’: Permission denied
+find: ‘/var/tmp/systemd-private-6a43782c6864417a8878836fd3531f76-colord.service-6MSaDa’: Permission denied
+find: ‘/var/tmp/systemd-private-494a227a118e469ea289412c760cae71-systemd-timesyncd.service-W6A1X1’: Permission denied
+find: ‘/var/tmp/systemd-private-fe34e5b6afc04d0b952c654d5fdae6a6-systemd-timesyncd.service-jsBnZ2’: Permission denied
+find: ‘/var/tmp/systemd-private-d9b7c90c2df340d9b57fba5d4048d553-systemd-timesyncd.service-Yrbq04’: Permission denied
+find: ‘/var/tmp/systemd-private-b6869d1b939849f88dfe97b8fa316163-rtkit-daemon.service-UHXm2r’: Permission denied
+find: ‘/var/tmp/systemd-private-cb6d7d84d3594436a3997d9be25e429c-fwupd.service-REMnY5’: Permission denied
+find: ‘/var/tmp/systemd-private-6a43782c6864417a8878836fd3531f76-rtkit-daemon.service-Rg020Z’: Permission denied
+find: ‘/var/tmp/systemd-private-fe34e5b6afc04d0b952c654d5fdae6a6-rtkit-daemon.service-Nf7oUn’: Permission denied
+find: ‘/var/tmp/systemd-private-c05ee8a1dd894cd28710d1cfd2ba8185-systemd-timesyncd.service-jCZhOk’: Permission denied
+find: ‘/var/tmp/systemd-private-88cc6337285949578c72c54a11c63fa6-colord.service-jicXom’: Permission denied
+find: ‘/var/tmp/systemd-private-aa3e86dfa75549458c5c7f0da59228bb-rtkit-daemon.service-B4aF65’: Permission denied
+find: ‘/var/tmp/systemd-private-eb0a4f12f08b4afca22e6e44e085dba3-systemd-timesyncd.service-FtJhp0’: Permission denied
+find: ‘/var/tmp/systemd-private-98486ffb42d543e0b726e6dc70d14e85-systemd-timesyncd.service-fBP9wd’: Permission denied
+find: ‘/var/tmp/systemd-private-1c2f7b18be614486934014e900657edc-systemd-timesyncd.service-03UPzf’: Permission denied
+find: ‘/var/tmp/systemd-private-4d6cf0d0e0f048d7994704f353af802a-systemd-timesyncd.service-PTyYpu’: Permission denied
+find: ‘/var/tmp/systemd-private-0c66fcd43099465da622c06ac0386105-systemd-timesyncd.service-2vO3tx’: Permission denied
+find: ‘/var/tmp/systemd-private-accd2cbf75cf487bbf457718007f4704-colord.service-nqyqkr’: Permission denied
+find: ‘/var/tmp/systemd-private-8b2ea7e153374c30a0dd8313f5568b40-colord.service-LD9jC3’: Permission denied
+find: ‘/var/tmp/systemd-private-cbf2848ad047494383edea08aef3b118-colord.service-ckTJrb’: Permission denied
+find: ‘/var/tmp/systemd-private-5b39da5517494518b0db72e089e4f611-colord.service-JOXSaA’: Permission denied
+find: ‘/var/tmp/systemd-private-aa3e86dfa75549458c5c7f0da59228bb-fwupd.service-yPuuPq’: Permission denied
+find: ‘/var/tmp/systemd-private-821b631b026e4372aed2b0006f7c3fc6-rtkit-daemon.service-Zs3T9y’: Permission denied
+find: ‘/var/tmp/systemd-private-44df1b34c236422c81b29381c4048ea9-rtkit-daemon.service-fGLSMM’: Permission denied
+find: ‘/var/tmp/systemd-private-324f504714584a04b8488a0c1b7991ab-systemd-timesyncd.service-iukiA3’: Permission denied
+find: ‘/var/tmp/systemd-private-e508737be92541b68100ed1d6ee82d6f-fwupd.service-orDeaf’: Permission denied
+find: ‘/var/tmp/systemd-private-5d87b343909241359c9844e279233342-fwupd.service-3avycC’: Permission denied
+find: ‘/var/tmp/systemd-private-1c2f7b18be614486934014e900657edc-colord.service-gyB4dd’: Permission denied
+find: ‘/var/tmp/systemd-private-736cc607a27644159e4b76d2fecfc91b-colord.service-zWxZtJ’: Permission denied
+find: ‘/var/tmp/systemd-private-9d7ff05f76df48bfbf658f9364da40ab-fwupd.service-oKNqvN’: Permission denied
+find: ‘/var/tmp/systemd-private-324f504714584a04b8488a0c1b7991ab-fwupd.service-f8D8qJ’: Permission denied
+find: ‘/var/tmp/systemd-private-cbf2848ad047494383edea08aef3b118-systemd-timesyncd.service-L0iehg’: Permission denied
+find: ‘/var/tmp/systemd-private-efea3ca857fb4ed5b73595e1834d794a-rtkit-daemon.service-rUQQKb’: Permission denied
+find: ‘/var/tmp/systemd-private-c7c1478c2db947b78e1589c32a230ab4-fwupd.service-S5PMjp’: Permission denied
+find: ‘/var/tmp/systemd-private-c05ee8a1dd894cd28710d1cfd2ba8185-rtkit-daemon.service-a6U5hr’: Permission denied
+find: ‘/var/tmp/systemd-private-602d378d860448b79c01050221810e49-rtkit-daemon.service-rqycom’: Permission denied
+find: ‘/var/tmp/systemd-private-9b5467934fef4c538b9db2c04d09b941-fwupd.service-UP4Uo5’: Permission denied
+find: ‘/var/tmp/systemd-private-99409c2dda7c4216a414bee8c8d59ce8-systemd-timesyncd.service-ErQ5TW’: Permission denied
+find: ‘/var/tmp/systemd-private-837b22ebeba144a0b9a193d61cacd4a6-rtkit-daemon.service-ugj2JJ’: Permission denied
+find: ‘/var/tmp/systemd-private-efea3ca857fb4ed5b73595e1834d794a-systemd-timesyncd.service-Tvz6A4’: Permission denied
+find: ‘/var/lib/bluetooth/E4:B3:18:11:91:9D’: Permission denied
+find: ‘/var/lib/bluetooth/E4:A4:71:A2:78:57’: Permission denied
+find: ‘/var/lib/bluetooth/28:16:AD:0D:30:E9’: Permission denied
+find: ‘/var/lib/lightdm’: Permission denied
+find: ‘/var/lib/polkit-1’: Permission denied
+find: ‘/var/lib/colord/.cache’: Permission denied
+find: ‘/var/lib/fwupd/gnupg’: Permission denied
+find: ‘/var/lib/snapd/cookie’: Permission denied
+find: ‘/var/lib/snapd/void’: Permission denied
+find: ‘/var/lib/update-notifier/package-data-downloads/partial’: Permission denied
+find: ‘/var/lib/udisks2’: Permission denied
+find: ‘/var/lib/samba/private/msg.sock’: Permission denied
+find: ‘/var/lib/lightdm-data/lightdm’: Permission denied
+find: ‘/var/lib/apt/lists/partial’: Permission denied
+find: ‘/var/spool/cron/crontabs’: Permission denied
+find: ‘/var/spool/cups’: Permission denied
+find: ‘/var/spool/rsyslog’: Permission denied
+find: ‘/var/log/samba/cores’: Permission denied
+find: ‘/var/log/speech-dispatcher’: Permission denied
