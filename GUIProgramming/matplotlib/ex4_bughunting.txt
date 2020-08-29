@@ -1,0 +1,37 @@
+:wnspired by above , modified by Gocha
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+fig , ax = plt.subplots()
+x = [1,2,3,4]
+y = [1,4,2,3]
+
+ax.plot( x , y)
+#bug1 # ax.show()
+
+plot.show()
+demo@ubuntu:~/SelfStudy/python/python2/python2/GUIProgramming/matplotlib$ ./ex4_bughunting.py 
+Traceback (most recent call last):
+  File "./ex4_bughunting.py", line 15, in <module>
+    plot.show()
+NameError: name 'plot' is not defined
+demo@ubuntu:~/SelfStudy/python/python2/python2/GUIProgramming/matplotlib$ vi ex4_bughunting.py 
+demo@ubuntu:~/SelfStudy/python/python2/python2/GUIProgramming/matplotlib$ cat ex4_bughunting.py 
+#! /usr/bin/env python2
+# https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
+# Inspired by above , modified by Gocha
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+fig , ax = plt.subplots()
+x = [1,2,3,4]
+y = [1,4,2,3]
+
+ax.plot( x , y)
+#bug1 # ax.show()
+#bug2# plot.show()
+
+plt.show()
+
